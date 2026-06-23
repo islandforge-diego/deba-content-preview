@@ -1,52 +1,39 @@
-<!doctype html>
-<html lang="en"><head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Content Preview · Deba Douglas</title>
 <style>
- :root{--ink:#1c1c1a;--muted:#6b6760;--line:#e7e3db;--bg:#f6f3ee;--card:#fff;
-   --accent:#1f6f54;--soft:#e8f1ec;--chip:#f0ece4;}
+ :root{--ink:#1c1c1a;--muted:#6b6760;--line:#e7e3db;--bg:#f6f3ee;--card:#fff;--accent:#1f6f54;--soft:#e8f1ec;--chip:#f0ece4}
  *{box-sizing:border-box;-webkit-text-size-adjust:100%}
- body{margin:0;background:var(--bg);color:var(--ink);
-   font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
- .wrap{max-width:540px;margin:0 auto;padding:16px 14px calc(40px + env(safe-area-inset-bottom));}
- .top{position:sticky;top:0;background:rgba(246,243,238,.92);backdrop-filter:blur(8px);
-   margin:-16px -14px 14px;padding:14px;border-bottom:1px solid var(--line);z-index:5;}
- h1{font-size:20px;margin:0;letter-spacing:-.01em;}
- .meta{color:var(--muted);font-size:13px;margin-top:2px;}
- .banner{background:var(--soft);border:1px solid #cfe2d8;color:#16503c;border-radius:12px;
-   padding:11px 13px;font-size:13.5px;margin:0 0 18px;}
- .card{background:var(--card);border:1px solid var(--line);border-radius:16px;
-   padding:14px;margin-bottom:16px;box-shadow:0 1px 2px rgba(0,0,0,.03);}
- .day{display:inline-block;background:var(--accent);color:#fff;font-weight:600;font-size:12.5px;
-   padding:4px 11px;border-radius:999px;margin-bottom:12px;}
- .note{display:inline-block;background:var(--chip);border:1px solid var(--line);color:#6b6760;
-   font-size:11.5px;font-weight:600;padding:4px 9px;border-radius:999px;margin:0 0 12px 6px;}
- video,.cover{width:100%;max-width:320px;display:block;margin:0 auto 12px;border-radius:14px;
-   background:#000;aspect-ratio:9/16;object-fit:cover;}
- .title{font-size:17px;font-weight:650;margin:0 0 10px;line-height:1.3;}
- .chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:4px;}
- .chip{background:var(--chip);border:1px solid var(--line);border-radius:999px;
-   padding:4px 11px;font-size:12.5px;color:#4a463f;}
- details{margin-top:10px;border-top:1px solid var(--line);}
- summary{cursor:pointer;list-style:none;padding:12px 2px 4px;font-size:14px;
-   font-weight:600;color:var(--accent);}
+ body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+ .wrap{max-width:540px;margin:0 auto;padding:16px 14px calc(40px + env(safe-area-inset-bottom))}
+ .top{position:sticky;top:0;background:rgba(246,243,238,.92);backdrop-filter:blur(8px);margin:-16px -14px 14px;padding:14px;border-bottom:1px solid var(--line);z-index:5}
+ h1{font-size:20px;margin:0;letter-spacing:-.01em} .meta{color:var(--muted);font-size:13px;margin-top:2px}
+ .banner{background:var(--soft);border:1px solid #cfe2d8;color:#16503c;border-radius:12px;padding:11px 13px;font-size:13.5px;margin:0 0 18px}
+ .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px;margin-bottom:16px;box-shadow:0 1px 2px rgba(0,0,0,.03)}
+ .day{display:inline-block;background:var(--accent);color:#fff;font-weight:600;font-size:12.5px;padding:4px 11px;border-radius:999px;margin-bottom:12px}
+ video{width:100%;max-width:320px;display:block;margin:0 auto 12px;border-radius:14px;background:#000;aspect-ratio:9/16;object-fit:cover}
+ .gallery{display:flex;gap:8px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;padding-bottom:6px;margin-bottom:6px}
+ .gallery img{height:300px;border-radius:12px;scroll-snap-align:center;flex:0 0 auto;background:#eee}
+ .count{font-size:12.5px;color:var(--muted);margin-bottom:6px}
+ .title{font-size:17px;font-weight:650;margin:0 0 10px;line-height:1.3}
+ .chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:4px}
+ .chip{background:var(--chip);border:1px solid var(--line);border-radius:999px;padding:4px 11px;font-size:12.5px;color:#4a463f}
+ details{margin-top:10px;border-top:1px solid var(--line)}
+ summary{cursor:pointer;list-style:none;padding:12px 2px 4px;font-size:14px;font-weight:600;color:var(--accent)}
  summary::-webkit-details-marker{display:none} summary:after{content:" ▾";color:var(--muted)}
- .cap{border-top:1px dashed var(--line);padding:11px 0;} .cap:first-child{border-top:none}
+ .cap{border-top:1px dashed var(--line);padding:11px 0} .cap:first-child{border-top:none}
  .cap h4{margin:0 0 4px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
- .cap p{margin:0;white-space:pre-wrap;font-size:14px;}
- footer{color:var(--muted);font-size:12.5px;text-align:center;margin-top:22px;}
-</style></head><body>
-<div class="wrap">
- <div class="top"><h1>Content Preview — Deba Douglas</h1>
-   <div class="meta">7 days · Jun 22–28 · updated Jun 22, 3:20 PM CT</div></div>
- <div class="banner">👀 <b>For your review.</b> This is the week scheduled in Buffer by Diego (Jun 22–28). Tap a video to watch; tap “Captions per platform” to read each platform’s copy.</div>
+ .cap p{margin:0;white-space:pre-wrap;font-size:14px}
+ footer{color:var(--muted);font-size:12.5px;text-align:center;margin-top:22px}
+</style></head><body><div class="wrap">
+ <div class="top"><h1>Content Preview — Deba Douglas</h1><div class="meta">7 days · Jun 22–28 · updated Jun 23, 7:54 AM CT</div></div>
+ <div class="banner">👀 <b>For your review.</b> Everything below is scheduled in Buffer by Diego. Tap a video to watch or swipe the photos; tap “Captions” to read each platform's copy.</div>
  
   <section class="card">
-    <div class="day">Mon · Jun 22 · 3:00 PM CT</div><span class="note">Already published</span>
+    <div class="day">Mon · Jun 22 · 3:00 PM CT</div>
     <video controls preload="none" playsinline poster="https://res.cloudinary.com/dpwh4baly/video/upload/so_1,w_600,q_auto/v1782076668/previews/day22_mindset.jpg" src="https://res.cloudinary.com/dpwh4baly/video/upload/v1782076668/previews/day22_mindset.mp4"></video>
-    <h2 class="title">Do it sooner. Just go in. 🙌🏾</h2>
-    <div class="chips"><span class="chip">Instagram</span><span class="chip">Facebook</span><span class="chip">TikTok</span><span class="chip">LinkedIn</span><span class="chip">YouTube</span></div>
+    <h2 class="title">Do it sooner. Just go in.</h2>
+    <div class="chips"><span class="chip">Facebook</span><span class="chip">Instagram</span><span class="chip">TikTok</span><span class="chip">LinkedIn</span><span class="chip">YouTube</span></div>
     <details><summary>Captions per platform</summary><div class="caps"><div class="cap"><h4>Instagram · Facebook · TikTok</h4><p>Do it sooner. Just go in. 🙌🏾
 
 Joshua Hicks has been inside the Roadmap and his message to his past self says it all.
@@ -54,43 +41,30 @@ The only thing most people regret is not starting earlier. Not the investment. N
 If you&#x27;re sitting on the fence right now, this is your sign.
 
 👉🏾 Comment INVESTOR and I&#x27;ll DM you the link to book a free strategy call.
-#realestateinvesting #mentorship #dfwrealestate #generationalwealth</p></div><div class="cap"><h4>LinkedIn · YouTube</h4><p>Do it sooner. Just go in. 🙌🏾
-
-Joshua Hicks has been inside the Roadmap and his message to his past self says it all.
-The only thing most people regret is not starting earlier. Not the investment. Not the process. Just the time they spent waiting.
-If you&#x27;re sitting on the fence right now, this is your sign.
-
-👉🏾 https://buff.ly/np3lEka  link to book a free strategy call.
-#realestateinvesting #mentorship #dfwrealestate #generationalwealth</p></div></div></details>
+#realestateinvesting #mentorship #dfwrealestate #generationalwealth</p></div><div class="cap"><h4>LinkedIn · YouTube</h4><p>…👉🏾 https://buff.ly/np3lEka  link to book a free strategy call. (same copy, link instead of comment CTA)</p></div></div></details>
   </section>
   <section class="card">
-    <div class="day">Tue · Jun 23 · 3:00 PM CT</div><span class="note">Happy Hour carousel</span>
-    <img class="cover" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138662/FX201234_mljavq.jpg" alt="Happy Hour with our latest cohort 🥂" loading="lazy">
-    <h2 class="title">Happy Hour with our latest cohort 🥂</h2>
-    <div class="chips"><span class="chip">Instagram</span><span class="chip">Facebook</span><span class="chip">LinkedIn</span></div>
+    <div class="day">Tue · Jun 23 · 3:00 PM CT</div>
+    <div class="gallery"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138662/FX201234_mljavq.jpg"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138663/FX201069_q6nfaa.jpg"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138663/FX201119_qbiam1.jpg"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138663/FX201130_ummfqw.jpg"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138661/FX201167_qhwgf5.jpg"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138662/FX201169_txinjm.jpg"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138661/FX201206_sxk1hs.jpg"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138661/FX201178_thzf7o.jpg"></div><div class="count">🖼️ 8-photo carousel · swipe →</div>
+    <h2 class="title">Happy Hour with our latest cohort</h2>
+    <div class="chips"><span class="chip">Facebook</span><span class="chip">Instagram</span><span class="chip">LinkedIn</span></div>
     <details><summary>Captions per platform</summary><div class="caps"><div class="cap"><h4>Instagram</h4><p>Happy Hour with our latest cohort 🥂
 
 There&#x27;s nothing like getting our Principles of Real Estate family together — good people, good energy, and a whole lot of laughs. This is what the journey looks like off the spreadsheets. 🏡
 
 Want to be part of the next cohort? Comment &quot;Showcase&quot; 👇 to join our free real estate showcase.
 
-#realestateinvesting #mentorship #dfwrealestate #debaflipstexas #realestatecommunity #generationalwealth</p></div><div class="cap"><h4>Facebook</h4><p>Happy Hour with our latest cohort 🥂
-
-There&#x27;s nothing like getting our Principles of Real Estate family together — good people, good energy, and a whole lot of laughs. This is what the journey looks like off the spreadsheets. 🏡
-
-Want to be part of the next cohort? Comment &quot;Showcase&quot; and we&#x27;ll send you the link to join our free real estate showcase. 👇</p></div><div class="cap"><h4>LinkedIn</h4><p>Happy Hour with our latest cohort. 🥂
+#realestateinvesting #mentorship #dfwrealestate #debaflipstexas #realestatecommunity #generationalwealth</p></div><div class="cap"><h4>LinkedIn</h4><p>Happy Hour with our latest cohort. 🥂
 
 Building wealth in real estate is about more than deals — it&#x27;s about community. Getting our Principles of Real Estate family together is a reminder of why we do this work.
 
-Want to learn what the mentorship is about? Join our next free showcase: https://www.douglasdwellings.com/mentor?utm_source=linkedin&amp;utm_medium=social&amp;utm_campaign=showcase
-
-#RealEstateInvesting #Mentorship #Community #TexasRealEstate</p></div></div></details>
+Want to learn what the mentorship is about? Join our next free showcase: douglasdwellings.com/mentor</p></div></div></details>
   </section>
   <section class="card">
     <div class="day">Wed · Jun 24 · 3:00 PM CT</div>
     <video controls preload="none" playsinline poster="https://res.cloudinary.com/dpwh4baly/video/upload/so_1,w_600,q_auto/v1782076678/previews/day23_wholesaling.jpg" src="https://res.cloudinary.com/dpwh4baly/video/upload/v1782076678/previews/day23_wholesaling.mp4"></video>
-    <h2 class="title">How to make money with one skill. 💰</h2>
-    <div class="chips"><span class="chip">Instagram</span><span class="chip">Facebook</span><span class="chip">TikTok</span><span class="chip">LinkedIn</span><span class="chip">YouTube</span></div>
+    <h2 class="title">How to make money with one skill</h2>
+    <div class="chips"><span class="chip">Facebook</span><span class="chip">Instagram</span><span class="chip">TikTok</span><span class="chip">LinkedIn</span><span class="chip">YouTube</span></div>
     <details><summary>Captions per platform</summary><div class="caps"><div class="cap"><h4>Instagram · Facebook · TikTok</h4><p>How to make money with one skill. 💰
 
 Wholesaling is one of the most powerful strategies we teach inside the Roadmap because you do not need money, credit, or experience to get started.
@@ -98,28 +72,16 @@ You find the deal. You put it under contract. You sell that contract to an inves
 
 One of my mentees made $50K doing exactly this.
 No renovation. No mortgage. No risk. Just the skill of finding and evaluating a deal.
-This is what we teach. Real strategies that real people are using right now in DFW.
 
 👉🏾 Comment INVESTOR and I&#x27;ll DM you the link to book a free strategy call.
 
-#realestateinvesting #wholesaling #dfwrealestate #mentorship</p></div><div class="cap"><h4>LinkedIn · YouTube</h4><p>How to make money with one skill. 💰
-
-Wholesaling is one of the most powerful strategies we teach inside the Roadmap because you do not need money, credit, or experience to get started.
-You find the deal. You put it under contract. You sell that contract to an investor. You collect the fee.
-
-One of my mentees made $50K doing exactly this.
-No renovation. No mortgage. No risk. Just the skill of finding and evaluating a deal.
-This is what we teach. Real strategies that real people are using right now in DFW.
-
-👉🏾 https://buff.ly/np3lEka  link to book a free strategy call.
-
-#realestateinvesting #wholesaling #dfwrealestate #mentorship</p></div></div></details>
+#realestateinvesting #wholesaling #dfwrealestate #mentorship</p></div><div class="cap"><h4>LinkedIn · YouTube</h4><p>Same copy with 👉🏾 https://buff.ly/np3lEka link instead of the comment CTA.</p></div></div></details>
   </section>
   <section class="card">
     <div class="day">Thu · Jun 25 · 3:00 PM CT</div>
     <video controls preload="none" playsinline poster="https://res.cloudinary.com/dpwh4baly/video/upload/so_1,w_600,q_auto/v1782076753/previews/clip1_showcase.jpg" src="https://res.cloudinary.com/dpwh4baly/video/upload/f_mp4,vc_h264,ac_aac,w_720,q_auto/v1782076753/previews/clip1_showcase.mp4"></video>
-    <h2 class="title">The hardest part of real estate? Starting. 🏡</h2>
-    <div class="chips"><span class="chip">Instagram</span><span class="chip">Facebook</span><span class="chip">TikTok</span><span class="chip">LinkedIn</span><span class="chip">YouTube</span></div>
+    <h2 class="title">The importance of getting started</h2>
+    <div class="chips"><span class="chip">Facebook</span><span class="chip">Instagram</span><span class="chip">TikTok</span><span class="chip">LinkedIn</span><span class="chip">YouTube</span></div>
     <details><summary>Captions per platform</summary><div class="caps"><div class="cap"><h4>Instagram</h4><p>The hardest part of real estate? Starting. 🏡
 
 One buy &amp; hold deal we broke down in class:
@@ -128,130 +90,42 @@ One buy &amp; hold deal we broke down in class:
 • Rent: $3,400/mo
 • Cash flow: ~$350/mo
 
-You don&#x27;t need to be perfect — you need to begin. Comment &quot;Investor&quot; 👇 and Deba will send you a link to book your free 1-on-1 strategy call.
-
-#realestateinvesting #buyandhold #texasrealestate #realestatecoach #debaflipstexas #principlesofrealestate #cashflow #investingforbeginners</p></div><div class="cap"><h4>Facebook</h4><p>The importance of getting started in real estate 🏡
-
-A buy &amp; hold deal we walked through in class:
-• Purchase: $340K
-• Cash to close (15%): $51K
-• Rent: $3,400/mo
-• Cash flow: ~$350/mo
-
-You don&#x27;t have to have it all figured out to begin. Comment &quot;Investor&quot; and Deba will send you a link to book your free 1-on-1 call. 👇</p></div><div class="cap"><h4>TikTok</h4><p>The hardest part of real estate? Starting. 🏡
-
-One buy &amp; hold deal we broke down in class:
-• Purchase: $340K
-• Cash to close (15%): $51K
-• Rent: $3,400/mo
-• Cash flow: ~$350/mo
-
-You don&#x27;t need to be perfect — you need to begin. Comment &quot;Investor&quot; 👇 to book a free 1-on-1 with Deba.
-
-#realestateinvesting #buyandhold #texasrealestate #realestate #debaflipstexas #realestatetok #investing #cashflow</p></div><div class="cap"><h4>LinkedIn</h4><p>Most people don&#x27;t lose in real estate because they pick the wrong property. They lose because they never start.
-
-In a recent Principles of Real Estate session, we broke down a simple buy &amp; hold:
-• Purchase price: $340,000
-• Cash to close (15%): $51,000
-• Rent: $3,400/month
-• Monthly cash flow: ~$350
-
-The numbers matter — but the decision to begin matters more. Book a free 1-on-1 strategy call with Deba: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1?utm_source=linkedin&amp;utm_medium=social&amp;utm_campaign=investor_1on1
-
-#RealEstateInvesting #WealthBuilding #BuyAndHold #TexasRealEstate</p></div><div class="cap"><h4>YouTube</h4><p>A quick buy &amp; hold breakdown from a Principles of Real Estate class with Deba Douglas. The biggest barrier to building wealth in real estate is simply getting started.
-
-📅 Book a free 1-on-1 strategy call with Deba: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1?utm_source=youtube&amp;utm_medium=social&amp;utm_campaign=investor_1on1
-
-#shorts #realestate #realestateinvesting</p></div></div></details>
+You don&#x27;t need to be perfect — you need to begin. Comment &quot;Investor&quot; 👇 and Deba will send you a link to book your free 1-on-1 strategy call.</p></div><div class="cap"><h4>LinkedIn</h4><p>Most people don&#x27;t lose in real estate because they pick the wrong property. They lose because they never start. … Book a free 1-on-1 strategy call with Deba (Calendly link in post).</p></div></div></details>
   </section>
   <section class="card">
     <div class="day">Fri · Jun 26 · 3:00 PM CT</div>
     <video controls preload="none" playsinline poster="https://res.cloudinary.com/dpwh4baly/video/upload/so_1,w_600,q_auto/v1782076756/previews/clip2_bluejacket.jpg" src="https://res.cloudinary.com/dpwh4baly/video/upload/f_mp4,vc_h264,ac_aac,w_720,q_auto/v1782076756/previews/clip2_bluejacket.mp4"></video>
-    <h2 class="title">What makes Deba a great fit?&quot; 🎤 Our clients say it best.</h2>
-    <div class="chips"><span class="chip">Instagram</span><span class="chip">Facebook</span><span class="chip">TikTok</span><span class="chip">LinkedIn</span><span class="chip">YouTube</span></div>
+    <h2 class="title">What makes Deba a great fit?</h2>
+    <div class="chips"><span class="chip">Facebook</span><span class="chip">Instagram</span><span class="chip">TikTok</span><span class="chip">LinkedIn</span><span class="chip">YouTube</span></div>
     <details><summary>Captions per platform</summary><div class="caps"><div class="cap"><h4>Instagram</h4><p>&quot;What makes Deba a great fit?&quot; 🎤 Our clients say it best.
 
 From first-deal nerves to flipping houses — the right guide changes everything. 🏚️➡️🏡
 
-Want that for yourself? Comment &quot;Investor&quot; 👇 to book a free 1-on-1 with Deba.
-
-#clienttestimonial #realestatementor #houseflip #fixandflip #texasrealestate #debaflipstexas #realestateinvesting #realestatecoach</p></div><div class="cap"><h4>Facebook</h4><p>We asked our clients: &quot;What makes Deba a great fit for you?&quot; 🎤
-
-Their answers say it all — from first-deal nerves to flipping houses, the right guide makes the difference. 🏡
-
-Want results like these? Comment &quot;Investor&quot; and Deba will send you a link to book your free 1-on-1 call. 👇</p></div><div class="cap"><h4>TikTok</h4><p>&quot;What makes Deba a great fit?&quot; 🎤 Our clients say it best.
-
-From first-deal nerves to flipping houses — the right guide changes everything. 🏚️➡️🏡
-
-Comment &quot;Investor&quot; 👇 to book a free 1-on-1 with Deba.
-
-#clienttestimonial #realestatementor #houseflip #fixandflip #texasrealestate #debaflipstexas #realestateinvesting #fyp</p></div><div class="cap"><h4>LinkedIn</h4><p>&quot;What makes Deba a great fit for you?&quot;
-
-We asked our clients — and their answers say more than we ever could. From the first deal to flipping properties, the right guidance turns hesitation into action.
-
-Ready for your first (or next) move? Book a free 1-on-1 strategy call with Deba: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1?utm_source=linkedin&amp;utm_medium=social&amp;utm_campaign=investor_1on1
-
-#ClientStories #RealEstateMentorship #TexasRealEstate #RealEstateInvesting</p></div><div class="cap"><h4>YouTube</h4><p>A client shares what made working with Deba Douglas the right fit — from first deal to flipping houses.
-
-📅 Book a free 1-on-1 strategy call with Deba: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1?utm_source=youtube&amp;utm_medium=social&amp;utm_campaign=investor_1on1
-
-#shorts #realestate #clienttestimonial</p></div></div></details>
+Want that for yourself? Comment &quot;Investor&quot; 👇 to book a free 1-on-1 with Deba.</p></div><div class="cap"><h4>LinkedIn</h4><p>&quot;What makes Deba a great fit for you?&quot; We asked our clients — their answers say more than we ever could. … Book a free 1-on-1 strategy call with Deba (link in post).</p></div></div></details>
   </section>
   <section class="card">
     <div class="day">Sat · Jun 27 · 3:00 PM CT</div>
     <video controls preload="none" playsinline poster="https://res.cloudinary.com/dpwh4baly/video/upload/so_1,w_600,q_auto/v1782137139/Event_Reel_Trial_eia412.jpg" src="https://res.cloudinary.com/dpwh4baly/video/upload/v1782137139/Event_Reel_Trial_eia412.mp4"></video>
-    <h2 class="title">I&#x27;m going to figure this out!&quot; 💪🏾</h2>
-    <div class="chips"><span class="chip">Instagram</span><span class="chip">Facebook</span><span class="chip">TikTok</span><span class="chip">LinkedIn</span><span class="chip">YouTube</span></div>
+    <h2 class="title">I&#x27;m going to figure this out!</h2>
+    <div class="chips"><span class="chip">Facebook</span><span class="chip">Instagram</span><span class="chip">TikTok</span><span class="chip">LinkedIn</span><span class="chip">YouTube</span></div>
     <details><summary>Captions per platform</summary><div class="caps"><div class="cap"><h4>Instagram</h4><p>&quot;I&#x27;m going to figure this out!&quot; 💪🏾
 
 That&#x27;s the energy we want every mentee to bring to the mentorship. I was there too — grinding a 9-to-5 while taking care of my family. I figured it out, and I&#x27;ll show you how.
 
-Comment &quot;Investor&quot; 👇 to learn more and book a call with me.
-
-#realestateinvesting #mentorship #dfwrealestate #debaflipstexas #realestatecoach #generationalwealth</p></div><div class="cap"><h4>Facebook</h4><p>&quot;I&#x27;m going to figure this out!&quot; 💪🏾
-
-That&#x27;s the energy we expect our mentees to bring to the mentorship — I was there too, a 9-to-5 and a family to take care of.
-
-Comment &quot;Investor&quot; and I&#x27;ll send you the link to learn more and book a call with me. 👇</p></div><div class="cap"><h4>TikTok</h4><p>&quot;I&#x27;m going to figure this out!&quot; 💪🏾 That&#x27;s the energy we want from every mentee.
-
-I was there too — 9-to-5 and a family. I figured it out.
-
-Comment &quot;Investor&quot; 👇 to book a call with me.
-
-#realestateinvesting #mentorship #dfwrealestate #debaflipstexas #fyp</p></div><div class="cap"><h4>LinkedIn</h4><p>&quot;I&#x27;m going to figure this out.&quot;
-
-That&#x27;s the energy we expect our mentees to bring to the mentorship. I know it well — I was working a 9-to-5 while taking care of my family when I started.
-
-If that&#x27;s you, let&#x27;s talk. Book a 1-on-1 call with me: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1?utm_source=linkedin&amp;utm_medium=social&amp;utm_campaign=investor_1on1
-
-#RealEstateInvesting #Mentorship #TexasRealEstate #WealthBuilding</p></div><div class="cap"><h4>YouTube</h4><p>&quot;I&#x27;m going to figure this out!&quot; That&#x27;s the energy we expect our mentees to bring — I was there too, a 9-to-5 and a family to care for.
-
-📅 Learn more and book a 1-on-1 call with me: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1?utm_source=youtube&amp;utm_medium=social&amp;utm_campaign=investor_1on1
-
-#shorts #realestate #mentorship</p></div></div></details>
+Comment &quot;Investor&quot; 👇 to learn more and book a call with me.</p></div><div class="cap"><h4>LinkedIn</h4><p>&quot;I&#x27;m going to figure this out.&quot; That&#x27;s the energy we expect our mentees to bring. I was working a 9-to-5 while taking care of my family when I started. Book a 1-on-1 call with me (link in post).</p></div></div></details>
   </section>
   <section class="card">
-    <div class="day">Sun · Jun 28 · 3:00 PM CT</div><span class="note">Happy Hour carousel</span>
-    <img class="cover" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138662/FX201244_tu2ssj.jpg" alt="From the bays to the table 🏌️🍹" loading="lazy">
-    <h2 class="title">From the bays to the table 🏌️🍹</h2>
-    <div class="chips"><span class="chip">Instagram</span><span class="chip">Facebook</span><span class="chip">LinkedIn</span></div>
+    <div class="day">Sun · Jun 28 · 3:00 PM CT</div>
+    <div class="gallery"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138662/FX201244_tu2ssj.jpg"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138659/FX201072_t9911u.jpg"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138663/FX201082_mvfcpt.jpg"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138661/FX201144_x6rqk8.jpg"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138660/FX201070_mbwzh0.jpg"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138659/FX201071_q6bwib.jpg"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138662/FX201208_osqu7x.jpg"><img loading="lazy" src="https://res.cloudinary.com/dpwh4baly/image/upload/v1782138661/FX201159_qbrwg8.jpg"></div><div class="count">🖼️ 8-photo carousel · swipe →</div>
+    <h2 class="title">From the bays to the table</h2>
+    <div class="chips"><span class="chip">Facebook</span><span class="chip">Instagram</span><span class="chip">LinkedIn</span></div>
     <details><summary>Captions per platform</summary><div class="caps"><div class="cap"><h4>Instagram</h4><p>From the bays to the table 🏌️🍹
 
 Our latest cohort&#x27;s Happy Hour was all about celebrating wins and making memories. The best part of this business? The people you build it with.
 
 Ready to start your journey? Comment &quot;Showcase&quot; 👇 to join our free real estate showcase.
 
-#realestateinvesting #mentorship #dfwrealestate #debaflipstexas #topgolf #realestatecommunity</p></div><div class="cap"><h4>Facebook</h4><p>From the bays to the table 🏌️🍹
-
-Our latest cohort&#x27;s Happy Hour was all about celebrating wins and making memories. The best part of this business? The people you build it with.
-
-Ready to start your journey? Comment &quot;Showcase&quot; and we&#x27;ll send you the link to join our free real estate showcase. 👇</p></div><div class="cap"><h4>LinkedIn</h4><p>From the bays to the table — celebrating our latest cohort. 🏌️
-
-Behind every deal is a community of people pushing each other forward. Grateful for this group and the work they&#x27;re putting in.
-
-Curious about the mentorship? Join our next free showcase: https://www.douglasdwellings.com/mentor?utm_source=linkedin&amp;utm_medium=social&amp;utm_campaign=showcase
-
-#RealEstateInvesting #Community #Mentorship #TexasRealEstate</p></div></div></details>
+#realestateinvesting #mentorship #dfwrealestate #debaflipstexas #topgolf #realestatecommunity</p></div><div class="cap"><h4>LinkedIn</h4><p>From the bays to the table — celebrating our latest cohort. 🏌️ Behind every deal is a community of people pushing each other forward. Join our next free showcase: douglasdwellings.com/mentor</p></div></div></details>
   </section>
- <footer>Scheduled by Diego · Island Forge Studio · reflects Buffer as of Jun 22, 3:20 PM CT</footer>
+ <footer>Scheduled by Diego · Island Forge Studio · all posts 3:00 PM CT</footer>
 </div></body></html>
