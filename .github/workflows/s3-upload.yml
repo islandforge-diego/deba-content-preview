@@ -34,6 +34,6 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: ${{ secrets.AWS_REGION }}
       - name: Upload
-        run: aws s3 cp source.input "s3://${{ secrets.S3_BUCKET }}/${{ github.event.inputs.dest_key }}" --acl public-read
+        run: aws s3 cp source.input "s3://${{ secrets.S3_BUCKET }}/${{ github.event.inputs.dest_key }}" 
       - name: Output URL
         run: echo "### Public URL\n https://${{ secrets.S3_BUCKET }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/${{ github.event.inputs.dest_key }}" >> $GITHUB_STEP_SUMMARY

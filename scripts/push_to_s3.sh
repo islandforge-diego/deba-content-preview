@@ -43,7 +43,7 @@ if [ "$SHARE" = "1" ]; then
   URL="$(aws s3 presign "s3://$S3_BUCKET/$KEY" --expires-in 604800 --region "$AWS_REGION")"
   echo "Presigned (7-day) link:"; echo "$URL"
 else
-  aws s3 cp "$FILE" "s3://$S3_BUCKET/$KEY" --acl public-read --region "$AWS_REGION"
+  aws s3 cp "$FILE" "s3://$S3_BUCKET/$KEY" --region "$AWS_REGION"   # public read via bucket policy (no ACLs)
   if [ -n "${CLOUDFRONT_DOMAIN:-}" ]; then URL="https://$CLOUDFRONT_DOMAIN/$KEY"
   else URL="https://$S3_BUCKET.s3.$AWS_REGION.amazonaws.com/$KEY"; fi
   echo "Public URL:"; echo "$URL"
