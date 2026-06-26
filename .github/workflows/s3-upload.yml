@@ -1,0 +1,39 @@
+name: Upload media to S3
+# Manual job: fetch a file from a URL (e.g. a Frame.io / WeTransfer direct link),
+# optionally transcode to web mp4, upload to S3, and print the public URL in the run summary.
+# Requires repo secrets: AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, AWS_REGION, S3_BUCKET
+on:
+  workflow_dispatch:
+    inputs:
+      source_url:
+        description: Direct URL of the source file to fetch
+        required: true
+      dest_key:
+        description: Destination key/path in the bucket (e.g. reels/skit3.mp4)
+        required: true
+      transcode_mp4:
+        description: Transcode to web mp4 (H.264) before upload
+        type: boolean
+        default: false
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch source
+        run: curl -L --fail "${{ github.event.inputs.source_url }}" -o source.input
+      - name: Transcode (optional)
+        if: ${{ github.event.inputs.transcode_mp4 == 'true' }}
+        run: |
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+          ffmpeg -y -i source.input -vf "scale='min(1080,iw)':-2" -c:v libx264 -preset veryfast -crf 23 -c:a aac -movflags +faststart out.mp4
+          mv out.mp4 source.input
+      - name: Configure AWS
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+      - name: Upload
+        run: aws s3 cp source.input "s3://${{ secrets.S3_BUCKET }}/${{ github.event.inputs.dest_key }}" --acl public-read
+      - name: Output URL
+        run: echo "### Public URL\n https://${{ secrets.S3_BUCKET }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/${{ github.event.inputs.dest_key }}" >> $GITHUB_STEP_SUMMARY
