@@ -1,9 +1,6 @@
 {
   "slug": "deba",
-  "name": "Deba Douglas",
-  "title": "Content Preview \u2014 Deba Douglas",
-  "range_label": "Jun 23\u201328",
-  "feed_time": "3:00 PM CT",
+  "title": "Deba Douglas \u2014 Content Preview",
   "theme": {
     "accent": "#1f6f54",
     "soft": "#e8f1ec",
@@ -11,281 +8,6 @@
     "accent_text": "#16503c",
     "story_bg": "#0d5f6e"
   },
-  "banner": "\ud83d\udc40 <b>For your review.</b> Everything below is scheduled. Feed posts go out at 3:00 PM CT; Instagram Stories run once a day (7:00 AM CT). Tap a video to watch, swipe the photos, or tap \u201cCaptions\u201d to read each platform's copy.",
-  "footer": "Scheduled by Diego \u00b7 Island Forge Studio \u00b7 feed posts 3:00 PM CT \u00b7 stories 7:00 AM CT (Tue 2:00 PM)",
-  "stories": [
-    {
-      "iso_date": "2026-06-01",
-      "time": "1:13 PM CT",
-      "media": {
-        "type": "video",
-        "src": "https://buffer-media-uploads.s3.amazonaws.com/67e362b27bd165d61f0cf784/6a1dbfda3a494f4249038f5f/6b8c8fa96bcacfdc17524c741113b266.original_transcoded.mp4",
-        "poster": "https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1780334524094/a33fa08b-0eb5-4f53-8691-7e8fe134da47.jpeg"
-      },
-      "sticker": "",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-01",
-      "time": "1:13 PM CT",
-      "media": {
-        "type": "video",
-        "src": "https://buffer-media-uploads.s3.amazonaws.com/67e362b27bd165d61f0cf784/6a1dbfda3a494f4249038f5f/6b8c8fa96bcacfdc17524c741113b266.original_transcoded.mp4",
-        "poster": "https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1780334524094/a33fa08b-0eb5-4f53-8691-7e8fe134da47.jpeg"
-      },
-      "sticker": "",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-02",
-      "time": "8:08 AM CT",
-      "media": {
-        "type": "video",
-        "src": "https://buffer-media-uploads.s3.amazonaws.com/67e362b27bd165d61f0cf784/6a1ed094bf28aab8bf0551f4/d42f4c9c76f2cef91d22e54b94ae00ba.original_transcoded.mp4",
-        "poster": "https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1780404327266/2b5998f4-707a-451f-88bf-d07e7453ffa7.jpeg"
-      },
-      "sticker": "Is working a 9-5 job something you want to do for the rest of your life? \ud83e\udd14\n\nI built a real estate portfolio that pays me whether I show up or not. My mentees are doing the same. And it doesn't take a fancy degree or a trust fund to start. \n\nThis Saturday, June 6th, I'm hosting a FREE Real Estate Investor Showcase in McKinney, TX. You'll see real deals, real numbers, and meet investors who started exactly where you are now.\n\nFree event. Limited seats.\n\n\ud83d\udc49\ud83c\udffe Comment SHOWCASE and I'll DM you the registration link.",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-02",
-      "time": "9:12 AM CT",
-      "media": {
-        "type": "video",
-        "src": "https://buffer-media-uploads.s3.amazonaws.com/67e362b27bd165d61f0cf784/6a1ee204362391112d0a4283/fa70dcc021f7d0ac263dda1e82adcb70.original_transcoded.mp4",
-        "poster": "https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1780408817228/bd640555-6a11-43f4-ae74-e0b21324acdc.jpeg"
-      },
-      "sticker": "",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-19",
-      "time": "2:45 PM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://buffer-media-uploads.s3.amazonaws.com/6a3591290d11dac80502982c/fc97975f39da5b02fb7fa4f45366913216322161_1d733c947cb8b3a1e14761b78ff6b8f778282b58_instagram"
-        ]
-      },
-      "sticker": "Comment INVERTIR and I'll send the link to register.\n\nMeet Juan and Sandra Silva, owners of SJSilva Properties LLC and coaches in the Roadmap to Real Estate Investing. \ud83c\udfd8\ufe0f\n\nThey began as a young couple, tried different businesses until they found real estate. Now they have a thriving portfolio of flips, rentals, and wholesale deals across DFW. Juan is a general contractor handling construction and renovation; Sandra leads operations, acquisitions, and business development. Mentorship changed everything; now they coach other mentees in Deba's program.\n\n#realestateinvesting #mentorship #dfwrealestate #generationalwealth",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-21",
-      "time": "12:00 PM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://buffer-media-uploads.s3.amazonaws.com/6a38159c8b9be39a81070495/b9ba29d0200ab14995378e1dec49a0cb40214ffe_d5cf26a9b1f717dba62a4495e7ff50f0bd21e2ce_instagram"
-        ]
-      },
-      "sticker": "Happy Father's Day to the man who builds with me in every way. \ud83c\udfe1\u2764\ufe0f\n\nSamson, watching you love our children and walk this journey with me means everything. None of this works without you.\nTo every father out there doing the work, showing up, and building a legacy for your family. Today is for you.\n\n#HappyFathersDay #Grateful #FamilyFirst #Legacy",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-23",
-      "time": "2:00 PM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://raw.githubusercontent.com/islandforge-diego/deba-content-preview/main/stories/Day2_Tue_Mentee.png?v=6"
-        ]
-      },
-      "sticker": "Mentee Tuesday \u2014 add Poll sticker: \"Go solo\" vs \"With a coach\"",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-23",
-      "time": "3:00 PM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://buffer-media-uploads.s3.amazonaws.com/6a3947935193f489595a3e94/c7106351e8c28aef5ff97616ef206d8ec68f48ce_d20e1596259b20916c20f422a041b653696ed5aa_instagram"
-        ]
-      },
-      "sticker": "Big thanks @longhorn_investments for wonderful Happy Hour \ud83e\udd42\n\nThere's nothing like getting our Principles of Real Estate family together \u2014 good people, good energy, and a whole lot of laughs. This is what the journey looks like off the spreadsheets. \ud83c\udfe1\n\nBig thanks to our sponsor @longhorn_investments for helping make nights like this happen. \ud83e\udd1d\n\nWant to be part of the next cohort? Comment \"Showcase\" \ud83d\udc47 to join our free real estate showcase.\n\n#realestateinvesting #mentorship #dfwrealestate #debaflipstexas #realestatecommunity #generationalwealth",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-24",
-      "time": "7:00 AM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://raw.githubusercontent.com/islandforge-diego/deba-content-preview/main/stories/Day3_Wed_WealthBuilding.png"
-        ]
-      },
-      "sticker": "Wealth-Building Wednesday \u2014 CTA: DM \"INVESTOR\"",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-25",
-      "time": "7:00 AM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://raw.githubusercontent.com/islandforge-diego/deba-content-preview/main/stories/Day4_Thu_Transformation.png?v=8"
-        ]
-      },
-      "sticker": "Transformation Thursday \u2014 add Poll sticker: \"Flip it or rent it out?\"",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-26",
-      "time": "7:00 AM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://raw.githubusercontent.com/islandforge-diego/deba-content-preview/main/stories/Day5_Fri_Teaching.png"
-        ]
-      },
-      "sticker": "Teaching Friday \u2014 add Question box: \"Ask me anything about investing\"",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-27",
-      "time": "7:00 AM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://raw.githubusercontent.com/islandforge-diego/deba-content-preview/main/stories/Day6_Sat_Community.png?v=6"
-        ]
-      },
-      "sticker": "Community Saturday \u2014 add Poll sticker: \"Would you come to an event like this?\"",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-27",
-      "time": "7:07 AM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://buffer-media-uploads.s3.amazonaws.com/6a3fbcf30b652ee4b502819c/89f0ae43af3ab8182fcce59a0ba623eafb9d792f_054927a1c8ea73f175416fca7caa23c7ddd1a209_facebook"
-        ]
-      },
-      "sticker": "",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-27",
-      "time": "7:07 AM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://buffer-media-uploads.s3.amazonaws.com/6a3fbcf437448387d60333e7/89f0ae43af3ab8182fcce59a0ba623eafb9d792f_360f356fc48333bb620e38543dc1964e0744a302_instagram"
-        ]
-      },
-      "sticker": "",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-28",
-      "time": "7:00 AM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://buffer-media-uploads.s3.amazonaws.com/6a3acafdae05f68c499f19f7/3ccb03bbae6dd508c19d7c91195ee5e0900fb58f_b05aca907bc4e1d736b636f8936008edbaf4d3d9_instagram"
-        ]
-      },
-      "sticker": "Faith & Freedom Sunday \u2014 add Question box: \"What would freedom let you do?\"",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-29",
-      "time": "7:00 AM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://debadouglas.s3.us-east-2.amazonaws.com/media/story_FX200806.jpg"
-        ]
-      },
-      "sticker": "Question: What's the ONE thing holding you back from your first deal?",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-06-30",
-      "time": "7:00 AM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://debadouglas.s3.us-east-2.amazonaws.com/media/story_FX200886.jpg"
-        ]
-      },
-      "sticker": "Question: What's one thing you wish you'd known before your first deal?",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-07-01",
-      "time": "7:00 PM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://debadouglas.s3.us-east-2.amazonaws.com/media/story_FX201473.jpg"
-        ]
-      },
-      "sticker": "Question: What's one win from the first half of 2024 you're most proud of?",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-07-02",
-      "time": "3:00 PM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://debadouglas.s3.us-east-2.amazonaws.com/media/story_FX201492.jpg"
-        ]
-      },
-      "sticker": "https://inspirenstyle.com/juneteenth-fashion-show-legacy-west-think-three-media-2026/",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-07-03",
-      "time": "7:00 AM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://debadouglas.s3.us-east-2.amazonaws.com/media/story_text_8e28236d.jpg"
-        ]
-      },
-      "sticker": "Poll: Office at 200K vs Home at 150K vs Anywhere at 100K?",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-07-04",
-      "time": "7:00 AM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://debadouglas.s3.us-east-2.amazonaws.com/media/story_FX201514.jpg"
-        ]
-      },
-      "sticker": "Question: Who's your real estate ride or die?",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-07-05",
-      "time": "12:01 PM CT",
-      "media": {
-        "type": "gallery",
-        "images": [
-          "https://buffer-media-uploads.s3.amazonaws.com/6a4a8dbc98312e233402ba34/0fb30b1930379c3f937814a5de2f7c6e92a62ef0_6f3c5249f500868280b1c21968e977db0ca8c12c_instagram"
-        ]
-      },
-      "sticker": "",
-      "title": ""
-    },
-    {
-      "iso_date": "2026-07-05",
-      "time": "4:05 PM CT",
-      "media": {
-        "type": "video",
-        "src": "https://debadouglas.s3.us-east-2.amazonaws.com/media/D3CE813D-A89F-4F83-8955-960E57BCDB76.MP4",
-        "poster": "https://images.buffer.com/thumbnail/y0EHUT0tHfzGotoiS0ZrRxMozPjlsSLz9SKgnFMftgQ?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2FD3CE813D-A89F-4F83-8955-960E57BCDB76.MP4"
-      },
-      "sticker": "Your GC said they'd be doing the roof today. Did you actually check? \ud83d\udc40\n\nThis clip is straight from our cohort kickoff, and coaches Jenn and Jose are keeping it real. The moment you look away, your contractors can drift. Not always on purpose, but it happens. And when you're investing your money into a renovation, \"I assumed\" is not a strategy.\n\nHere's what they teach inside the program:\n\nIf you can, show up every single day.\nIf you have a W-2 and can't do that, at least drive by. Make sure someone is on site. Confirm that the work scheduled for that day is actually the work getting done.\n\nYour GC says roofing today? Verify roofing is happening, not framing, not foundation. Today's work, not yesterday's.\n\nAnd if life pulls you away? Your coaches have your back. That's what real support looks like.\n\nThis is fix and flip in the real world. No shortcuts, no assumptions, just eyes on the prize. \ud83c\udfda\ufe0f\n\nComment \"INVERTIR\" \ud83d\udc47 and let's get you started the right way.\n\n#PrinciplesOfRealEstate #DebaDouglas #FixAndFlip #RealEstateInvesting #W2ToFreedom #DallasRealEstate #RealEstateCoach #WealthBuilder #BuyAndHold",
-      "title": ""
-    }
-  ],
   "feed": [
     {
       "iso_date": "2026-06-01",
@@ -4410,6 +4132,29 @@
     },
     {
       "iso_date": "2026-07-05",
+      "time": "3:00 PM CT",
+      "title": "\ud83c\udfe1 MYTH OR FACT \ud83c\udfe1 \"Offering\u2026",
+      "chips": [
+        "linkedin"
+      ],
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://media.licdn.com/dms/image/v2/D4E22AQGZYLJwUz6pGg/feedshare-shrink_1280/B4EZ8pnnJsK4AM-/0/1783109678028?e=1784764800&v=beta&t=BFZ4FwcIPryf-nFp-4r1jTSyWeOgmXnOaseEuvI_zDI&expires-ts=1784764800000"
+        ]
+      },
+      "caps": [
+        [
+          "linkedin",
+          "\ud83c\udfe1 MYTH OR FACT \ud83c\udfe1\n\"Offering over the asking price automatically means you'll win in a multiple-offer situation.\"\nIt's easy to think that the highest offer always wins\u2014but experienced buyers know that's only part of the equation. \ud83d\udca1\nWhen sellers review multiple offers, they're looking at the entire package\u2014not just the purchase price. Financing strength, pre-approval, contingencies, earnest money, flexibility on the closing date, and the overall likelihood of a smooth transaction can all influence their decision.\nThat's why a well-structured offer can sometimes beat a higher-priced one.\nThe key isn't just offering more\u2014it's offering smarter. As a buyer, understanding what matters most to the seller can give you a competitive edge without stretching beyond your budget.\nSo, what's your answer: Myth or Fact? Drop your guess in the comments before revealing the answer! \u2b07\ufe0f\n#HomeBuyingTips #RealEstateBuyers #MythOrFact #MultipleOffers #HouseHunting #HomeBuyerEducation #FirstTimeHomeBuyer #RealEstateTips #RealEstateMentor #DreamHome #HomeBuyingJourney #WinningOffer #RealEstateKnowledge\nYour \u201cGo To\u201d Real Estate Team whenever you need local experts. Reach out or refer us for any real estate needs.\nDeba Douglas\nDeba Douglas Realty Group\n\u260e\ufe0f Call us now 972-813-9582\n\ud83d\udce9 Email debadouglasrealtygroup@gmail.com\n\ud83d\udccc Like us on FB : https://lnkd.in/gB9pVFU3\n\ud83d\udccc Follow us on IG : https://lnkd.in/gXhivPwA\nFor a full list of our services visit https://lnkd.in/gb7ca4EQ\n#Debadouglasrealtygroup #realestate #TexasRealtor #TXRealtor #DebaDouglas #RegalRealtors"
+        ]
+      ],
+      "cta": {
+        "type": "link"
+      }
+    },
+    {
+      "iso_date": "2026-07-05",
       "time": "4:02 PM CT",
       "title": "Thinking about flipping houses? Here is\u2026",
       "chips": [
@@ -4429,7 +4174,7 @@
         ],
         [
           "linkedin",
-          "One of the most overlooked skills in real estate investing is contractor management.\n\nAt a recent Principles of Real Estate cohort kickoff, coaches Jenn and Jose addressed something that catches new investors off guard. Hiring a general contractor does not mean handing over control. It means you need to show up, verify the work, and hold people accountable to the schedule.\n\nIf your GC tells you roofing starts today, your job is to confirm roofing is what is actually happening, not framing, not foundation, not \"we'll get to it tomorrow.\"\n\nJenn's standard during active renovations is simple. She is there every day when possible. For investors still working full-time, her advice is equally practical. Drive by. Make sure the site is active. Make sure the right trade is on the job.\n\nThis is fix and flip investing done with discipline. Not fear, just focus.\n\nInside the Principles of Real Estate program, coaches do not just teach the strategy. They are in the field with their mentees, checking on properties, filling gaps, and making sure no one is left to figure it out alone.\n\nIf you are ready to approach your first renovation with a real plan and real support, let's connect.\n\nBook a call here: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1\n\n#RealEstateInvesting #FixAndFlip #PrinciplesOfRealEstate #WealthBuilder"
+          "One of the most overlooked skills in real estate investing is contractor management.\n\nAt a recent Principles of Real Estate cohort kickoff, coaches Jenn and Jose addressed something that catches new investors off guard. Hiring a general contractor does not mean handing over control. It means you need to show up, verify the work, and hold people accountable to the schedule.\n\nIf your GC tells you roofing starts today, your job is to confirm roofing is what is actually happening, not framing, not foundation, not \"we'll get to it tomorrow.\"\n\nJenn's standard during active renovations is simple. She is there every day when possible. For investors still working full-time, her advice is equally practical. Drive by. Make sure the site is active. Make sure the right trade is on the job.\n\nThis is fix and flip investing done with discipline. Not fear, just focus.\n\nInside the Principles of Real Estate program, coaches do not just teach the strategy. They are in the field with their mentees, checking on properties, filling gaps, and making sure no one is left to figure it out alone.\n\nIf you are ready to approach your first renovation with a real plan and real support, let's connect.\n\nBook a call here: https://lnkd.in/gQZHpMMp\n\n#RealEstateInvesting #FixAndFlip #PrinciplesOfRealEstate #WealthBuilder"
         ],
         [
           "facebook",
@@ -4456,61 +4201,1094 @@
       "caps": [
         [
           "tiktok",
-          "The second you stop watching your contractor, the work stops. \ud83d\udc77\n\nCoaches Jenn and Jose said it best at our cohort kickoff. If your GC told you today is roof day, go verify the roof is actually getting done. Not framing. Not foundation. The roof.\n\nJenn goes to her properties every single day during renovation. If you have a nine to five, at least drive by. Make sure someone is on site. Protect your investment.\n\nAnd inside this program, your coaches are right there with you. If you are out of town, they step in. That is real support.\n\nFix and flip is not passive. It is active, it is eyes-on, and it is worth every bit of the work.\n\nComment \"INVERTIR\" \ud83d\udc47 to get started.\n\n#FixAndFlip #RealEstateInvesting #PrinciplesOfRealEstate #DebaDouglas #W2ToFreedom"
+          "The second you stop watching your contractor, the work stops. \ud83d\udc77 Coaches Jenn and Jose said it best at our cohort kickoff. If your GC told you today is roof day, go verify the roof is actually getting done. Not framing. Not foundation. The roof. Jenn goes to her properties every single day during renovation. If you have a nine to five, at least drive by. Make sure someone is on site. Protect your investment. And inside this program, your coaches are right there with you. If you are out of town, they step in. That is real support. Fix and flip is not passive. It is active, it is eyes-on, and it is worth every bit of the work. Comment \"INVERTIR\" \ud83d\udc47 to get started. #FixAndFlip #RealEstateInvesting #PrinciplesOfRealEstate #DebaDouglas #W2ToFreedom"
         ]
       ],
       "cta": {
         "type": "comment",
         "keyword": "INVERTIR"
       }
+    },
+    {
+      "iso_date": "2026-07-05",
+      "time": "4:09 PM CT",
+      "title": "Your GC said they\u2019d be doing\u2026",
+      "chips": [
+        "instagram"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQM5LghrlcjqKXSjHLNC3CZJ_kxq2LVh8xneMHsuf4Bg3eoFXlwlvKIobzsSq5sgm8YVCUONTpB9qQjMlN5mpOVJ96a7UFa39xkYfIA.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=inorgpmBAnkQ7kNvwFCnHOS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjI4NDU2NDE2ODk2NzI3OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=796c62140a38025f&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81ODRDODE0M0UyOTU5OUM4NzhCQThBOEQxQzdEQzQ4N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzIzNENCNzg2NzM1MzM2OTRFMjhGMDY5QzA3NDY2Q0I1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbekZC8kfOOCBUCKAJDMywXQEdzMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=AC_7d1A1Br-4uX6QbzEVEw&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_AQBwEme-E2x2hN6i7_VLTCoCI3Yj1wNDCyHo2ODnmgJ5-Q&oe=6A4D5E86",
+        "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb662c687a22dd4484705/6a4b7fc20a7620a5a73eab19_thumbnail.jpg"
+      },
+      "caps": [
+        [
+          "instagram",
+          "Your GC said they\u2019d be doing the roof today. Did you actually check? \ud83d\udc40\n\nThis clip is straight from our cohort kickoff, and coaches Jenn and Jose are keeping it real. The moment you look away, your contractors can drift. Not always on purpose, but it happens. And when you\u2019re investing your money into a renovation, \u201cI assumed\u201d is not a strategy.\n\nHere\u2019s what they teach inside the program:\n\nIf you can, show up every single day.\nIf you have a W-2 and can\u2019t do that, at least drive by. Make sure someone is on site. Confirm that the work scheduled for that day is actually the work getting done.\n\nYour GC says roofing today? Verify roofing is happening, not framing, not foundation. Today\u2019s work, not yesterday\u2019s.\n\nAnd if life pulls you away? Your coaches have your back. That\u2019s what real support looks like.\n\nThis is fix and flip in the real world. No shortcuts, no assumptions, just eyes on the prize. \ud83c\udfda\ufe0f\n\nComment \u201cINVERTIR\u201d \ud83d\udc47 and let\u2019s get you started the right way.\n\n#PrinciplesOfRealEstate #DebaDouglas #FixAndFlip #RealEstateInvesting #W2ToFreedom DallasRealEstate RealEstateCoach WealthBuilder BuyAndHold"
+        ]
+      ],
+      "cta": {}
+    },
+    {
+      "iso_date": "2026-07-06",
+      "time": "1:04 PM CT",
+      "title": "This is why I love what\u2026",
+      "chips": [
+        "instagram"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQNGEpzLoaRoi_AVDX3vjUWdQmAjRIf2I3vRVrMZ5sGkxoGG8HKAS6bxO9unNkzEDaEiPU3FYk-ULM1oD9JDD_MK_oJ3zgr53ysSZLo.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=DVZCx7cGC98Q7kNvwF7OTI6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA1MzMwNDEyMzkzMTUxNiwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=72e39008d5cc8550&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80NjQ0RUMzODc2MzA5M0Q0QjlCQ0Y0RDc0Q0M3NDg5M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0QyNEE3QkY4RDAxRkJBRDE4QjYzOERFMkQ2Mjc2NzlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb47a2ir_7eAxUCKAJDMywXQESQAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=zXw2Zr6zrC3gFsvNYfT4tw&edm=AEQ6tj4EAAAA&_nc_zt=28&oh=00_AQDV7TPN2aWt_etRe2oxABZdKyE6nDKpumjRQbkiaLTtqw&oe=6A4E0C9E",
+        "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb662c687a22dd4484705/6a4c2613a77c4ad15e115309_thumbnail.jpg"
+      },
+      "caps": [
+        [
+          "instagram",
+          "This is why I love what I do.\n\nKorey Griffith and his family joined my mentorship after we met through Impact Track, where our kids run together.\n\nHis wife had been following my journey for a while, watching the business grow, and eventually they decided to take a chance and introduce themselves.\n\nSince joining the mentorship, Korey shared that it opened their eyes to so many things they would not have known on their own and helped them feel more comfortable and confident about getting into real estate investing.\n\nBut one of the things that meant the most to me was hearing him talk about the community.\n\nThe group.\nThe family feel.\nThe open conversations.\nThe way everyone helps each other win.\n\nThat is exactly the environment I wanted to create.\n\nA space where new and growing investors can learn, ask questions, build confidence, and feel supported every step of the way.\n\nBecause real estate investing is easier when you do not have to figure it out alone.\n\nReady to stop watching and start building wealth through real estate?\n\nBook a call with me here:\nhttps://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1?back=1&month=2026-06\n\n#RealEstateMentorship #RealEstateInvesting #BuildWealth #NewInvestors #debadouglas"
+        ]
+      ],
+      "cta": {
+        "type": "link"
+      }
+    },
+    {
+      "iso_date": "2026-07-06",
+      "time": "1:05 PM CT",
+      "title": "This is why I love what\u2026",
+      "chips": [
+        "tiktok"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://www.tiktok.com/@debaflipstexas/video/7659477797282303245?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+        "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a4ddbe949b144395e6a0346_thumbnail.jpg"
+      },
+      "caps": [
+        [
+          "tiktok",
+          "This is why I love what I do. Korey Griffith and his family joined my mentorship after we met through Impact Track, where our kids run together. His wife had been following my journey for a while, watching the business grow, and eventually they decided to take a chance and introduce themselves. Since joining the mentorship, Korey shared that it opened their eyes to so many things they would not have known on their own and helped them feel more comfortable and confident about getting into real estate investing. But one of the things that meant the most to me was hearing him talk about the community. The group. The family feel. The open conversations. The way everyone helps each other win. That is exactly the environment I wanted to create. A space where new and growing investors can learn, ask questions, build confidence, and feel supported every step of the way. Because real estate investing is easier when you do not have to figure it out alone. Ready to stop watching and start building wealth through real estate? Book a call with me here: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1?back=1&month=2026-06 #RealEstateMentorship #RealEstateInvesting #BuildWealth #NewInvestors #DebaDouglas"
+        ]
+      ],
+      "cta": {
+        "type": "link"
+      }
+    },
+    {
+      "iso_date": "2026-07-06",
+      "time": "1:09 PM CT",
+      "title": "This is why I love what\u2026",
+      "chips": [
+        "linkedin"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://media.licdn.com/dms/image/v2/D4E05AQEGZ5VToDfbFQ/videocover-high/B4EZ84nynfJkBM-/0/1783361384569?e=1784167200&v=beta&t=znwXMbHIG-Pik0cKuMq5rlAKnTTQtFp2bX8rYRVEVc0&expires-ts=1784167200000",
+        "poster": "https://media.licdn.com/dms/image/v2/D4E05AQEGZ5VToDfbFQ/videocover-high/B4EZ84nynfJkBM-/0/1783361384569?e=1784167200&v=beta&t=znwXMbHIG-Pik0cKuMq5rlAKnTTQtFp2bX8rYRVEVc0&expires-ts=1784167200000"
+      },
+      "caps": [
+        [
+          "linkedin",
+          "This is why I love what I do.\n\nKorey Griffith and his family joined my mentorship after we met through Impact Track, where our kids run together.\n\nHis wife had been following my journey for a while, watching the business grow, and eventually they decided to take a chance and introduce themselves.\n\nSince joining the mentorship, Korey shared that it opened their eyes to so many things they would not have known on their own and helped them feel more comfortable and confident about getting into real estate investing.\n\nBut one of the things that meant the most to me was hearing him talk about the community.\n\nThe group.\nThe family feel.\nThe open conversations.\nThe way everyone helps each other win.\n\nThat is exactly the environment I wanted to create.\n\nA space where new and growing investors can learn, ask questions, build confidence, and feel supported every step of the way.\n\nBecause real estate investing is easier when you do not have to figure it out alone.\n\nReady to stop watching and start building wealth through real estate?\n\nBook a call with me here:\nhttps://lnkd.in/g9sQjnTD\n\n#RealEstateMentorship #RealEstateInvesting #BuildWealth #NewInvestors #DebaDouglas"
+        ]
+      ],
+      "cta": {
+        "type": "link"
+      }
+    },
+    {
+      "iso_date": "2026-07-06",
+      "time": "2:13 PM CT",
+      "title": "Today we celebrate our sweet Isaiah\u2026",
+      "chips": [
+        "instagram"
+      ],
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb662c687a22dd4484705/6a4bff94ddb6e2d60301ca79_thumbnail.jpg"
+        ]
+      },
+      "caps": [
+        [
+          "instagram",
+          "Today we celebrate our sweet Isaiah turning 9 years old! \ud83c\udf89\ud83d\udc99\n\nWhat a joy it has been to be your mom.\n\nIf you\u2019ve ever been around Isaiah, then you know exactly what I\u2019m talking about. He\u2019s one of the most loving, caring, funny, and creative kids you\u2019ll ever meet. He\u2019s always going to check on you to make sure you\u2019re okay, give you the biggest hug, and somehow make everyone around him smile. He has a heart that genuinely cares for people, and that\u2019s one of the things I admire most about him.\n\nI know God has something incredibly special planned for your future. Having a front-row seat to your journey is a gift I\u2019ll never take for granted.\n\nKeep being kind. Keep loving people. Keep making the world brighter everywhere you go.\n\nHappy Birthday, Isaiah! Mommy loves you more than you\u2019ll ever know. \u2764\ufe0f\n\nCheers to Chapter 9! \ud83c\udf82\ud83e\udd73"
+        ]
+      ],
+      "cta": {}
+    },
+    {
+      "iso_date": "2026-07-06",
+      "time": "3:12 PM CT",
+      "title": "\ud83c\udfe1 Every successful investor, homeowner, and\u2026",
+      "chips": [
+        "linkedin"
+      ],
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://media.licdn.com/dms/image/v2/D4E22AQFcv9MV1s3lmQ/feedshare-image-high-res/B4EZ85EAFjJgAU-/0/1783368778348?e=1785369600&v=beta&t=A2Nc-R_E5-iWQp_a4RtZD4qZxK02lhD_-njRnsDPaMo&expires-ts=1785369600000"
+        ]
+      },
+      "caps": [
+        [
+          "linkedin",
+          "\ud83c\udfe1 Every successful investor, homeowner, and entrepreneur has one thing in common\u2014they decided to keep moving forward, even when the path wasn't perfectly clear.\nReal estate isn't about knowing everything before you start. It's about being willing to learn, adapt, and take the next right step. The small actions you take today can become the foundation for the wealth and opportunities you build tomorrow.\nKeep investing in your knowledge. Keep building relationships. Keep believing in what's possible.\nYour journey is unique, and every step forward counts. \ud83d\udc99\nWhat's one goal you're working toward in your real estate journey this week? I'd love to cheer you on in the comments! \ud83d\udc47\n#RealEstateMotivation #RealEstateJourney #RealEstateMentor #RealEstateInvesting #InvestorMindset #WealthBuilding #FinancialFreedom #PropertyInvestor #RealEstateSuccess #WomenInRealEstate #BuildGenerationalWealth #PassiveIncome #MondayMotivation #KeepMovingForward\nYour \u201cGo To\u201d Real Estate Team whenever you need local experts. Reach out or refer us for any real estate needs.\nDeba Douglas\nDeba Douglas Realty Group\n\u260e\ufe0f Call us now 972-813-9582\n\ud83d\udce9 Email debadouglasrealtygroup@gmail.com\n\ud83d\udccc Like us on FB : https://lnkd.in/gB9pVFU3\n\ud83d\udccc Follow us on IG : https://lnkd.in/gXhivPwA\nFor a full list of our services visit https://lnkd.in/gb7ca4EQ\n#Debadouglasrealtygroup #realestate #TexasRealtor #TXRealtor #DebaDouglas #RegalRealtors"
+        ]
+      ],
+      "cta": {
+        "type": "link"
+      }
+    },
+    {
+      "iso_date": "2026-07-06",
+      "time": "5:16 PM CT",
+      "title": "We all got a cousin. \ud83d\ude02\u2026",
+      "chips": [
+        "instagram",
+        "youtube",
+        "linkedin",
+        "facebook"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://debadouglas.s3.us-east-2.amazonaws.com/media/43D933C3-9003-4467-B804-D7BA85465332.mp4",
+        "poster": "https://images.buffer.com/thumbnail/CYEFslkCDSeEwEzfWlQdHjNwS9gPUoOCyEueg9m__zo?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2F43D933C3-9003-4467-B804-D7BA85465332.mp4"
+      },
+      "caps": [
+        [
+          "instagram",
+          "We all got a cousin. \ud83d\ude02\n\nInstructor Shanon Allen kept it ALL the way real in our last mentorship session, and the room felt it.\n\nYou know the story. \"My cousin can do it for cheap.\" And then a week goes by. Then two days. Then the weekend had a game on. Then Friday rolls around and he's like, \"Nah, I got you, cuz.\"\n\nAnd because it's family, you let it slide. Again. And again.\n\nHere's the lesson hiding in the laugh \ud83d\udc47\n\nHiring people you can't hold accountable is one of the biggest ways investors blow their timelines and their budgets. Love your cousin. Don't let him run your rehab.\n\nReal investors build real teams with real accountability. That's what we teach inside Principles of Real Estate.\n\nIf you're ready to stop letting the \"cuz, I got you\" moments derail your deals, you need to be in the room. \ud83c\udfe1\n\nComment \"INVESTOR\" \ud83d\udc47\n\n#PrinciplesOfRealEstate #DebaDouglas #RealEstateInvesting #FixAndFlip #W2ToFreedom #RealEstateCoach #DallasRealEstate #WealthBuilder #InvestorMindset #realestatementor #debaflipstexas"
+        ],
+        [
+          "youtube",
+          "Instructor Shanon Allen delivered one of the most relatable moments in Principles of Real Estate mentorship history, and the room could not stop laughing because every word was true. This is a must-watch clip for anyone who has ever tried to cut corners by hiring someone they love instead of someone they can hold accountable.\n\nThe story hits home fast. You hire your cousin to handle work on your investment property because the price is right and family looks out for family. Then he gets sick for a week. Then his job sends him out of town. Then the weekend had a game. Then he shows back up on Friday like nothing happened, saying \"nah, I got you, cuz.\" And because it is family, you let it slide until your whole project is off schedule and off budget.\n\nThe laughs are real, but so is the lesson. Accountability is not optional in real estate investing. Your team either moves your deal forward or holds it back, and the cost of the wrong choice shows up on your bottom line.\n\nAt Principles of Real Estate with Deba Douglas, we teach W-2 workers and first-time investors how to build the right team, run deals the right way, and create real wealth through real estate.\n\nReady to map out your first investment move? Book a free strategy call here: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1"
+        ],
+        [
+          "linkedin",
+          "One of the most valuable lessons in real estate investing does not come from a spreadsheet. Sometimes it comes from a story about your cousin.\n\nIn a recent Principles of Real Estate mentorship session, Instructor Shanon Allen walked the room through a scenario that landed hard, because almost every new investor has lived it. You bring in someone you trust, a family member, a friend, to handle work on your property. The price is right. The relationship feels safe. But accountability is missing. Weeks pass. The project stalls. And because it is personal, you hold back from having the hard conversation you need to have.\n\nThe lesson is this: loving someone and being able to hold them professionally accountable are two very different things. Real estate investing requires real systems and real teams built around results, not relationships alone.\n\nInside Principles of Real Estate, we teach investors how to build the right team from day one, so their deals move forward and their money works the way it should.\n\nIf you are a W-2 professional looking to make your first real estate move the right way, let's connect and map out your path.\n\nBook a call here: https://lnkd.in/gQZHpMMp\n\n#PrinciplesOfRealEstate #RealEstateInvesting #W2ToFreedom #WealthBuilder #RealEstateMentorship"
+        ],
+        [
+          "facebook",
+          "Instructor Shanon Allen had the whole room nodding and laughing at the same time, and that is how you know it's real. \ud83d\ude02\n\nIn this clip from our mentorship kickoff, he breaks down a scenario every investor either has lived or will live. You hire your cousin to handle some work on your property because he gives you a deal. Then he gets sick for a week. Then his job sends him somewhere. Then the game was on. Then he just... didn't feel like it.\n\nAnd because it's family, you don't fire him like you should. You let it drag. The project stalls. The timeline stretches. And your deal starts bleeding money.\n\nThe laughs are real, but so is the lesson. Building wealth in real estate means building a real team, people you can hold accountable, not just people you love.\n\nThat is exactly what we teach inside Principles of Real Estate. How to find deals, run them right, and put the right people in place so your investment actually moves forward.\n\nThis is the kind of wisdom you get in the room with us. Come be in the room.\n\nComment \"INVESTOR\" \ud83d\udc47"
+        ]
+      ],
+      "cta": {
+        "type": "comment",
+        "keyword": "INVESTOR"
+      }
+    },
+    {
+      "iso_date": "2026-07-06",
+      "time": "5:24 PM CT",
+      "title": "We all got a cousin who\u2026",
+      "chips": [
+        "tiktok"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a4c29092d30a04d756af337_video.mp4",
+        "poster": "https://images.buffer.com/thumbnail/CYEFslkCDSeEwEzfWlQdHjNwS9gPUoOCyEueg9m__zo?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2F43D933C3-9003-4467-B804-D7BA85465332.mp4"
+      },
+      "caps": [
+        [
+          "tiktok",
+          "We all got a cousin who \"got us.\" \ud83d\ude02 Instructor Shanon Allen dropped this gem at our mentorship kickoff and the room went crazy, because it's TRUE. Your cousin said he'd do the work cheap. Then he got sick. Then there was a game. Then he ghosted for two weeks but kept saying \"nah, I got you, cuz.\" And you let him drag your whole project out because you couldn't fire family. Real talk? That's one of the fastest ways to lose money on a real estate deal. Learn how to build a real team and protect your investment. Comment \"INVESTOR\" \ud83d\udc47 #RealEstateInvesting #FixAndFlip #InvestorLife #PrinciplesOfRealEstate #DebaDouglas #realestatetips"
+        ]
+      ],
+      "cta": {
+        "type": "comment",
+        "keyword": "INVESTOR"
+      }
+    },
+    {
+      "iso_date": "2026-07-07",
+      "time": "11:43 AM CT",
+      "title": "They never taught this kind of\u2026",
+      "chips": [
+        "linkedin"
+      ],
+      "media": {
+        "type": "video",
+        "src": "",
+        "poster": ""
+      },
+      "caps": [
+        [
+          "linkedin",
+          "They never taught this kind of math in school. \nThe kind where one property can help fund the next.\nThe kind where your tenant helps pay down your mortgage.\nThe kind where your money starts working harder than you do.\n\nCall it girl math. Call it real estate math. Either way, understanding how wealth is built changes the equation. \n\n\nBook a Call with Me: https://lnkd.in/g9sQjnTD"
+        ]
+      ],
+      "cta": {
+        "type": "link"
+      }
+    },
+    {
+      "iso_date": "2026-07-07",
+      "time": "11:46 AM CT",
+      "title": "They never taught this kind of\u2026",
+      "chips": [
+        "instagram"
+      ],
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb662c687a22dd4484705/6a4d2ea4aa836ac3431d946c_thumbnail.jpg"
+        ]
+      },
+      "caps": [
+        [
+          "instagram",
+          "They never taught this kind of math in school. \ud83d\udc81\ud83c\udffd\u200d\u2640\ufe0f\nThe kind where one property can help fund the next.\nThe kind where your tenant helps pay down your mortgage.\nThe kind where your money starts working harder than you do.\n\nCall it girl math. Call it real estate math. Either way, understanding how wealth is built changes the equation. \ud83d\udd25\n\nBook a Call with Me: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1?back=1&month=2026-06"
+        ]
+      ],
+      "cta": {
+        "type": "link"
+      }
+    },
+    {
+      "iso_date": "2026-07-07",
+      "time": "11:47 AM CT",
+      "title": "They never taught this kind of\u2026",
+      "chips": [
+        "tiktok"
+      ],
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a4ddbe949b144395e6a034b_thumbnail.webp"
+        ]
+      },
+      "caps": [
+        [
+          "tiktok",
+          "They never taught this kind of math in school. \ud83d\udc81\ud83c\udffd\u200d\u2640\ufe0f The kind where one property can help fund the next. The kind where your tenant helps pay down your mortgage. The kind where your money starts working harder than you do. Call it girl math. Call it real estate math. Either way, understanding how wealth is built changes the equation. \ud83d\udd25 Book a Call with Me: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1?back=1&month=2026-06"
+        ]
+      ],
+      "cta": {
+        "type": "link"
+      }
+    },
+    {
+      "iso_date": "2026-07-07",
+      "time": "2:08 PM CT",
+      "title": "The BRRRR strategy still works. You\u2026",
+      "chips": [
+        "instagram"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQO5S_kcFpkEp46zSBFtME1XQPi2FuTsfbF7zOS9HTOgSwwOAxQnrndf9Dn74wDbLdl5rwHHDg3fgoI7VDxNi0VJMZM_hpHBj8uHRSs.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=Cy1Kk5g-NtYQ7kNvwHC_etA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTAwNzQ4MzI5ODczNDEyNywiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=82d0abf0a08d588&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CODQ3MjY2MDM5Nzk1RDM3NTk1ODEzMDAzRUVCRjY4MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0NENDg4MzZFOTMyQzg4MDYxODBFOUNERUM4NDQ1NDhBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbegJvCn5PKAxUCKAJDMywXQEI7peNT988YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=G-YoRrO8RF21-TjpNn4yiQ&edm=AEQ6tj4EAAAA&_nc_zt=28&oh=00_AQBxkGqgUI-eHCy1aRLYu8B2JJOOEbLcZyLIxYlqu_EEPg&oe=6A4F8C3A",
+        "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb662c687a22dd4484705/6a4d932d1ca8b45a6da1434a_thumbnail.jpg"
+      },
+      "caps": [
+        [
+          "instagram",
+          "The BRRRR strategy still works. You just have to buy smarter right now. \ud83c\udfe0\n\nBuy distressed. Rehab it. Place a tenant. Then do a cash-out refinance to recover your capital.\n\nThree years ago, you could pull most of your money back out. Today, with interest rates, taxes, and insurance all elevated, you might pull half. You might pull none.\n\nSo what do you do?\n\nYou buy at 60 to 65% of the ARV.\n\nThat\u2019s the adjustment. That\u2019s how you make the numbers work in today\u2019s market. When your DSCR loan is coming in around 7.25%, your buy price is everything. Protect your spread on the front end.\n\nThe strategy isn\u2019t broken. The entry point just got more important.\n\nThis is exactly what we teach inside Principles of Real Estate, real numbers, real market conditions, no fluff.\n\nComment \u201cINVESTOR\u201d \ud83d\udc47 and let\u2019s talk about finding your first rental the right way.\n\n#PrinciplesOfRealEstate #DebaDouglas #BRRRRMethod"
+        ]
+      ],
+      "cta": {}
+    },
+    {
+      "iso_date": "2026-07-07",
+      "time": "3:39 PM CT",
+      "title": "#JustSold \ud83c\udfe1 \ud83d\udccd2930 Bellknoll Ln, Dallas,\u2026",
+      "chips": [
+        "linkedin"
+      ],
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://media.licdn.com/dms/image/v2/D4E22AQFgwRXCpjvsjA/feedshare-image-high-res/B4EZ8.TsOHJkAU-/0/1783456777338?e=1785369600&v=beta&t=4m2B8SK7ZB6x9Qs-1UahtoS54WqfSiRiG2nv0QItsU0&expires-ts=1785369600000"
+        ]
+      },
+      "caps": [
+        [
+          "linkedin",
+          "#JustSold \ud83c\udfe1\n\ud83d\udccd2930 Bellknoll Ln, Dallas, TX 75229\n\ud83d\udecf\ufe0f 3 Bedrooms | \ud83d\udec1 2 Bathrooms | \ud83d\udccf 1,461 sq ft\nJust Sold \ud83c\udfe1\ud83d\udd25\nCongratulations to our mentee on officially closing his first flip with Deba Douglas Realty Group.\nThis was his 9th flip overall, with previous projects completed in another state, and his experience showed from start to finish.\nAfter hitting the market, this renovated investment property went under contract in just 2 days and over asking price.\nWe\u2019re proud to support investors as they continue expanding, executing, and building through real estate.\nYour \u201cGo To\u201d Real Estate Team whenever you need local experts. Reach out or refer us for any real estate needs.\nDeba Douglas\nDeba Douglas Realty Group\n\u260e\ufe0f Call us now 972-813-9582\n\ud83d\udce9 Email debadouglasrealtygroup@gmail.com\n\ud83d\udccc Like us on FB : https://lnkd.in/gB9pVFU3\n\ud83d\udccc Follow us on IG : https://lnkd.in/gXhivPwA\nFor a full list of our services visit https://lnkd.in/gb7ca4EQ\n#Debadouglasrealtygroup #RegalRealtors #realestate #TexasRealtor #TXRealtor #DebaDouglas"
+        ]
+      ],
+      "cta": {
+        "type": "link"
+      }
+    },
+    {
+      "iso_date": "2026-07-07",
+      "time": "4:03 PM CT",
+      "title": "\ud83c\udfe1 Investor Tip of the Week\u2026",
+      "chips": [
+        "linkedin"
+      ],
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://media.licdn.com/dms/image/v2/D4E22AQFgPEPOOuwjJA/feedshare-shrink_1280/B4EZ8.ZDSsIwAU-/0/1783458182587?e=1785369600&v=beta&t=Fn57ZM61ovAQAbDVx84gj1aypxpyzeXpRwVmu--7-3o&expires-ts=1785369600000"
+        ]
+      },
+      "caps": [
+        [
+          "linkedin",
+          "\ud83c\udfe1 Investor Tip of the Week\nOne question I always encourage investors to ask before making an offer is:\n\"How do I plan to exit this deal?\"\nWhether your strategy is to flip for a profit, build long-term wealth through rentals, or use the BRRRR method, your exit plan should guide every decision you make\u2014from your purchase price to your renovation budget.\nSuccessful investors don't just buy properties\u2014they invest with purpose.\nRemember: You don't make money when you sell... you make money when you buy with the right strategy. \ud83d\udcc8\nWhat's your favorite investment strategy right now\u2014fix and flip, buy-and-hold, creative finance, or something else? Drop it in the comments! \ud83d\udc47\n#RealEstateInvesting #InvestorTips #RealEstateMentor #BuyAndHold #FixAndFlip #BRRRRMethod #InvestmentProperty #CashFlow #PassiveIncome #RealEstateEducation #BuildWealth #FinancialFreedom #PropertyInvestor #InvestWithPurpose\nYour \u201cGo To\u201d Real Estate Team whenever you need local experts. Reach out or refer us for any real estate needs.\nDeba Douglas\nDeba Douglas Realty Group\n\u260e\ufe0f Call us now 972-813-9582\n\ud83d\udce9 Email debadouglasrealtygroup@gmail.com\n\ud83d\udccc Like us on FB : https://lnkd.in/gB9pVFU3\n\ud83d\udccc Follow us on IG : https://lnkd.in/gXhivPwA\nFor a full list of our services visit https://lnkd.in/gb7ca4EQ\n#Debadouglasrealtygroup #realestate #TexasRealtor #TXRealtor #DebaDouglas #RegalRealtors"
+        ]
+      ],
+      "cta": {
+        "type": "link"
+      }
+    },
+    {
+      "iso_date": "2026-07-07",
+      "time": "4:07 PM CT",
+      "title": "The BRRRR method is still one\u2026",
+      "chips": [
+        "youtube",
+        "linkedin",
+        "facebook"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://debadouglas.s3.us-east-2.amazonaws.com/media/4FD9EA87-0A07-4DEF-B604-90E3C02568A8.mp4",
+        "poster": "https://images.buffer.com/thumbnail/6Kbr2EQEQJCwb7sqQ_S0ZK3aduGoYlOu7OAD2BZIOE8?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2F4FD9EA87-0A07-4DEF-B604-90E3C02568A8.mp4"
+      },
+      "caps": [
+        [
+          "youtube",
+          "The BRRRR method is still one of the most effective ways to build a rental portfolio, but high interest rates have changed the math. In this clip from a live Principles of Real Estate class, Deba Douglas explains exactly how she acquires rentals today and what adjustments her mentees need to make right now.\n\nDeba's approach: buy distressed, rehab, place a tenant, and do a cash-out refinance to recover your capital. In past markets, you could pull back most of what you put in. With DSCR loan rates around 7.25% and rising insurance and tax costs, that refinance may return only half, or less.\n\nSo what is the smart move in today's market? Buy at 60 to 65% of the ARV. That's the number that keeps your deal alive when financing is expensive.\n\nThis is not theory. This is what Deba teaches from her own rental portfolio, built from the ground up, starting long before real estate felt accessible to her.\n\nIf you are a W-2 worker trying to figure out where to start with rentals, or you are already looking at deals and need help running the numbers, this video is your starting point.\n\nReady to map out your rental strategy? Book a call with Deba here: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1"
+        ],
+        [
+          "linkedin",
+          "Real estate strategies don't expire. But they do require adjustment.\n\nIn a recent Principles of Real Estate session, Deba Douglas broke down how she has built her rental portfolio using the BRRRR method: buy distressed, rehab, place a tenant, and refinance to recover capital.\n\nFor years, that refinance could return the majority of the initial investment. Today, with DSCR loan rates near 7.25% and elevated insurance and property tax costs, the cash-out proceeds are smaller. Sometimes significantly.\n\nThe lesson isn't to avoid rentals. The lesson is to adjust your acquisition price.\n\nDeba's current guidance to mentees: target properties at 60 to 65% of ARV. That margin is what makes the deal sustainable when financing costs are high.\n\nThis is the kind of applied thinking that separates investors who build long-term portfolios from those who wait for a \"perfect\" market that never comes.\n\nThe fundamentals are sound. The entry point is the variable.\n\nIf you are working through your rental strategy and want to run the numbers with someone who has done it, let's connect.\n\nBook a call here: https://lnkd.in/gQZHpMMp\n\n#RealEstateInvesting #BRRRRMethod #BuyAndHold #PrinciplesOfRealEstate #WealthBuilder"
+        ],
+        [
+          "facebook",
+          "The BRRRR method is still one of the most powerful ways to build a rental portfolio. But the market has shifted, and Deba is keeping it real with her mentees.\n\nHere's the strategy she's been using to acquire rentals: buy a distressed property, rehab it, place a tenant, then do a cash-out refinance to pull your capital back out and repeat.\n\nA few years ago, you could recover most of your money in that refinance. Today, with interest rates sitting around 7.25% on a DSCR loan, plus higher taxes and insurance, the numbers look different. You might pull back half. You might not pull any.\n\nThat doesn't mean the strategy is dead. It means your buy price matters more than ever.\n\nDeba's guidance to her mentees right now: find a rental and buy it at 60 to 65% of the ARV. That's how you protect your position and keep the deal worth doing.\n\nThe market changes. The principles don't.\n\nThis is the kind of real-world education we bring every single session inside Principles of Real Estate.\n\nComment \"INVESTOR\" \ud83d\udc47 and let's map out your rental strategy together."
+        ]
+      ],
+      "cta": {
+        "type": "comment",
+        "keyword": "INVESTOR"
+      }
+    },
+    {
+      "iso_date": "2026-07-07",
+      "time": "4:08 PM CT",
+      "title": "BRRRR still works. Here's how to\u2026",
+      "chips": [
+        "tiktok"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a4d4ee690f5b1c5a5b71749_video.mp4",
+        "poster": "https://images.buffer.com/thumbnail/6Kbr2EQEQJCwb7sqQ_S0ZK3aduGoYlOu7OAD2BZIOE8?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2F4FD9EA87-0A07-4DEF-B604-90E3C02568A8.mp4"
+      },
+      "caps": [
+        [
+          "tiktok",
+          "BRRRR still works. Here's how to do it in TODAY's market. \ud83c\udfe0 Buy distressed. Rehab. Place a tenant. Cash-out refinance. Repeat. The catch? Interest rates are high. So you can't buy at full price and expect to pull your money back out like before. Deba's rule for right now: buy at 60 to 65% of ARV. That's how you protect your numbers when your DSCR loan is coming in around 7.25%. The strategy isn't broken. Your buy price just has to be tighter. Real talk, straight from a Principles of Real Estate class. Comment \"INVESTOR\" \ud83d\udc47 #BRRRRMethod #RealEstateInvesting #RentalProperty #PrinciplesOfRealEstate #DebaDouglas"
+        ]
+      ],
+      "cta": {
+        "type": "comment",
+        "keyword": "INVESTOR"
+      }
+    },
+    {
+      "iso_date": "2026-07-08",
+      "time": "3:16 PM CT",
+      "title": "Buyer incentive available \ud83c\udfe1\u2728 3816 Springbranch\u2026",
+      "chips": [
+        "linkedin"
+      ],
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://media.licdn.com/dms/image/v2/D4E22AQHRetoatQ_90A/feedshare-image-high-res/B4EZ9DX6_sHwAU-/0/1783541772614?e=1785369600&v=beta&t=8dQkf_vB-GeJ8aE6m9A42ufOW1ZhWGtltuxy8KyKjnM&expires-ts=1785369600000"
+        ]
+      },
+      "caps": [
+        [
+          "linkedin",
+          "Buyer incentive available \ud83c\udfe1\u2728 3816 Springbranch Drive, Benbrook, TX 76116\nA 1/0 temporary buydown is now available on this Benbrook home through the preferred lender.\nThis option may help qualified buyers lower their interest rate for the first year, creating a more affordable entry into homeownership.\nModern updates, move-in ready design, and a financing opportunity worth asking about.\nContact Deba Douglas Realty Group for details or to schedule your showing."
+        ]
+      ],
+      "cta": {}
+    },
+    {
+      "iso_date": "2026-07-08",
+      "time": "4:05 PM CT",
+      "title": "Not every property with a \"For\u2026",
+      "chips": [
+        "linkedin"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://media.licdn.com/dms/image/v2/D4E05AQEARf0Y_K00RQ/videocover-high/B4EZ9DjIBjIwBU-/0/1783544711597?e=1784167200&v=beta&t=UJof2ejdIBnAy7HO3kakEzVPQ1s_4SBXZ46R7MgICZo&expires-ts=1784167200000",
+        "poster": "https://media.licdn.com/dms/image/v2/D4E05AQEARf0Y_K00RQ/videocover-high/B4EZ9DjIBjIwBU-/0/1783544711597?e=1784167200&v=beta&t=UJof2ejdIBnAy7HO3kakEzVPQ1s_4SBXZ46R7MgICZo&expires-ts=1784167200000"
+      },
+      "caps": [
+        [
+          "linkedin",
+          "Not every property with a \"For Sale\" sign is a great investment. \ud83c\udfe1\nThe best investors don't just chase deals\u2014they know what to look for before they ever make an offer. Spotting these green flags can help you avoid costly mistakes and build a portfolio with confidence.\nSwipe through to discover 5 Green Flags to Look for in an Investment Property and see how many you're already checking before you buy!\n\ud83d\udc47 Which green flag do you think is the MOST important? Let me know in the comments!\nDon't forget to save this post so you can come back to it the next time you're analyzing a deal. And if you know someone who's getting started in real estate investing, share this with them!\n#RealEstateInvesting #RealEstateInvestor #InvestmentProperty #RentalProperty #CashFlow #PassiveIncome #HouseFlipping #PropertyInvestment #RealEstateEducation #InvestorMindset #FinancialFreedom #BuildWealth #RealEstateTips #RealEstateMentor #BeginnerInvestor #WealthBuilding #RealEstateLife #RealEstateCoach #InvestSmart #PropertyInvesting\nYour \u201cGo To\u201d Real Estate Team whenever you need local experts. Reach out or refer us for any real estate needs.\nDeba Douglas\nDeba Douglas Realty Group\n\u260e\ufe0f Call us now 972-813-9582\n\ud83d\udce9 Email debadouglasrealtygroup@gmail.com\n\ud83d\udccc Like us on FB : https://lnkd.in/gB9pVFU3\n\ud83d\udccc Follow us on IG : https://lnkd.in/gXhivPwA\nFor a full list of our services visit https://lnkd.in/gb7ca4EQ\n#Debadouglasrealtygroup #realestate #TexasRealtor #TXRealtor #DebaDouglas #RegalRealtors"
+        ]
+      ],
+      "cta": {
+        "type": "link"
+      }
+    },
+    {
+      "iso_date": "2026-07-08",
+      "time": "7:00 AM CT",
+      "title": "Two mentees walked into the Principles\u2026",
+      "chips": [
+        "youtube",
+        "linkedin",
+        "facebook"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://debadouglas.s3.us-east-2.amazonaws.com/media/494ED7A9-55E2-4BA3-8729-7004A08E544D.mp4",
+        "poster": "https://images.buffer.com/thumbnail/PJdwKQi0c-Z9pBOg72JWHBU57gFLKc52hyWzF1iM2ls?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2F494ED7A9-55E2-4BA3-8729-7004A08E544D.mp4"
+      },
+      "caps": [
+        [
+          "youtube",
+          "Two mentees walked into the Principles of Real Estate program with zero investing experience. Today, they're sharing their story at Mentee Corner and helping others do the same.\n\nIn this clip, they break down what actually changed for them: the coaching, the community, and the team around them. Lead coaches Jen and Jose are hands-on through every deal. The community fills in every gap, because if one person doesn't know the answer, someone in the room does. That's not an accident. That's the environment Deba Douglas has built on purpose.\n\nThe mission is clear: help every mentee get their first flip, get their foot in the door, and eventually build a rental portfolio that creates lasting freedom. It's a whole team effort, and that makes all the difference.\n\nIf you've been thinking about real estate but feel like you don't know enough to start, this video is for you. You don't need to have it all figured out. You just need the right people around you.\n\nReady to take your first step? Book a free strategy call with Deba's team here: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1"
+        ],
+        [
+          "linkedin",
+          "The biggest myth in real estate is that you have to figure it all out before you start.\n\nTwo of our mentees stood up at a recent Principles of Real Estate session and said something that stuck with me. They came in with zero real estate knowledge. No experience, no background, no roadmap. What changed everything wasn't just the education. It was the community around them.\n\nThat is the real lesson here. When you're surrounded by people who are one step ahead, every question gets answered. Lead coaches Jen and Jose walk alongside every mentee through their first deal and beyond. The goal is clear: get your first flip, get your foot in the door, and start building a rental portfolio that creates long-term freedom.\n\nReal estate investing is a team effort. The right environment accelerates everything.\n\nIf you're a W-2 professional exploring real estate as a path to financial independence, let's map out your first step together.\n\nBook a free strategy call here: https://lnkd.in/gQZHpMMp\n\n#RealEstateInvesting #WealthBuilder #PrinciplesOfRealEstate #DebaDouglas #W2ToFreedom"
+        ],
+        [
+          "facebook",
+          "They walked into Deba's program not knowing a thing about real estate investing. No experience. No background. Just a decision to show up.\n\nAnd now? They're standing at Mentee Corner sharing their story with the room.\n\nThis is what the Principles of Real Estate community looks like in action. It's not just a course. It's a team. When you join, you get lead coaches Jen and Jose walking with you through every deal. You get a community where if one person doesn't have the answer, someone else does. Everyone is working together to get you to your first flip, your first rental, your first step toward real freedom.\n\nReal estate doesn't require you to have it all figured out before you start. It requires you to be around the right people when you do.\n\nThe goal is simple. Get your foot in the door, get that first flip, and start building toward a portfolio that works for you.\n\nIf that sounds like where you want to be, we want to help you get there.\n\nComment \"INVERTIR\" \ud83d\udc47"
+        ]
+      ],
+      "cta": {
+        "type": "comment",
+        "keyword": "INVERTIR"
+      }
+    },
+    {
+      "iso_date": "2026-07-08",
+      "time": "7:00 AM CT",
+      "title": "They knew NOTHING about real estate,\u2026",
+      "chips": [
+        "tiktok"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a4d5a2c4e93f2c7b132ad9a_video.mp4",
+        "poster": "https://images.buffer.com/thumbnail/PJdwKQi0c-Z9pBOg72JWHBU57gFLKc52hyWzF1iM2ls?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2F494ED7A9-55E2-4BA3-8729-7004A08E544D.mp4"
+      },
+      "caps": [
+        [
+          "tiktok",
+          "They knew NOTHING about real estate, and now they're at the front of the room. \ud83c\udfa4 Once they joined Deba's program, it changed everything. Lead coaches Jen and Jose walk with you through every deal. The community fills every gap. If one person doesn't know the answer, someone else does. That's how you get your first flip. That's how you build rental income. Not alone. As a team. You don't need experience. You need the right people around you. Comment \"INVERTIR\" \ud83d\udc47 #PrinciplesOfRealEstate #DebaDouglas #RealEstateInvesting #FixAndFlip #W2ToFreedom"
+        ]
+      ],
+      "cta": {
+        "type": "comment",
+        "keyword": "INVERTIR"
+      }
+    },
+    {
+      "iso_date": "2026-07-08",
+      "time": "7:30 AM CT",
+      "title": "They walked in knowing nothing about\u2026",
+      "chips": [
+        "instagram"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQMFtd8gf0-EcTBGQ-zaOhXJOD4ZqT89lHwaVeVeQdFN9qKCh7NKI-q9nCXytyLz8pFf4SFsQ1ezn0oV0gigtjkZqGWxZaWIZsmtNT8.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=IuF21PPsh4gQ7kNvwE_NQXn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTAxNjY0NTQ4NDE4NzE0OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwODI3LCJkdXJhdGlvbl9zIjo0MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a8fb147aa0df39fa&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CRTRBMzEwOENBOTlDNDM4MDNFOENGNjBDRTc4N0FCNV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzkyNDNBNkE2MjUyRUNCM0YxMDA0RUE4QzU0NDFFNkI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaauJSPx6jOAxUCKAJDMywXQEQd0vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&_nc_gid=A8DfaJ8J6HPsOi1S4RgNag&edm=AEQ6tj4EAAAA&_nc_zt=28&oh=00_AQDuNIlwKTE8wXP-9P47BC3pKmslYvwvk5aygi4IzblBug&oe=6A501A6C",
+        "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb662c687a22dd4484705/6a4e489661de99a45fa504fa_thumbnail.jpg"
+      },
+      "caps": [
+        [
+          "instagram",
+          "They walked in knowing nothing about real estate. Now they\u2019re standing at the front of the room. \ud83c\udfa4\n\n\u201cOnce we joined Deba\u2019s course, it changed everything. It opened up our minds.\u201d\n\nThat\u2019s the power of community. At Principles of Real Estate, you\u2019re not just getting a course. You\u2019re getting coaches, fellow investors, and a whole team pulling for you.\n\nJen and Jose are in your corner as lead coaches. The community fills in every gap. If one person doesn\u2019t know the answer, someone else does.\n\nThat\u2019s how first flips happen. That\u2019s how rental portfolios get built. One step, one deal, one team at a time. \ud83c\udfe1\n\nIf you\u2019ve been waiting for a sign that real estate is possible for you, this is it.\n\nComment \u201cINVERTIR\u201d \ud83d\udc47 and let\u2019s get you started.\n\n#PrinciplesOfRealEstate #DebaDouglas #RealEstateInvesting #W2ToFreedom #FixAndFlip BuyAndHold RealEstateCoach DallasRealEstate WealthBuilder MenteeCorner"
+        ]
+      ],
+      "cta": {}
+    },
+    {
+      "iso_date": "2026-07-09",
+      "time": "2:17 PM CT",
+      "title": "Six months in, and this year\u2026",
+      "chips": [
+        "tiktok"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://www.tiktok.com/@debaflipstexas/video/7660609577221737742?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+        "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a51d9905a466648ea3ad226_thumbnail.jpg"
+      },
+      "caps": [
+        [
+          "tiktok",
+          "Six months in, and this year has already been filled with growth, gratitude, closed deals, and new doors opening. \ud83c\udfe1\u2728 Every closing represents more than a transaction. It represents trust, action, and the lives being changed through real estate. We\u2019re grateful for every client who trusted us, every mentee who took action, every connection made, and every win along the way. The first half of the year set the tone. Now we\u2019re ready for more growth, more collaboration, and more impact in the months ahead. Here\u2019s to the next chapter. \ud83d\udd11 #RealEstateInvesting #ClosedDeals #RealEstateMentorship #RealEstateJourney #RealEstateCommunity"
+        ]
+      ],
+      "cta": {}
+    },
+    {
+      "iso_date": "2026-07-09",
+      "time": "2:20 PM CT",
+      "title": "Six months in, and this year\u2026",
+      "chips": [
+        "instagram"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQNSH3yRQrqqwh7SuWC2dQ_YPD-CYeOrpGNS3vp6it46QAdhBtZUUFm6QbBqiWOHuHtqtCxMgc7Ip8Np3JGmYMJl8jxuMwedKdo7-bQ.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=l6TyzwoU9MEQ7kNvwGBDFTX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTAzODgzMTcwMTk4MTg2OCwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=52bd3410ab7945b6&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zMTREOTJBRTQ1RjJBQ0NGNUU5NkE0MDZGMEU3OEY5MF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzUzNEYxNEI1NTdDOTlEMEY1QTlGQ0FBOUY1MEMwNDg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY6p-p-7PYAxUCKAJDMywXQEaZmZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=vr_Aj6gFkkh7Hio96dW_yA&edm=AEQ6tj4EAAAA&_nc_zt=28&oh=00_AQClNgtB4rM54mOwRI5c6QJA9rDWRoET-FeYuV4usf43WQ&oe=6A51D307",
+        "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb662c687a22dd4484705/6a4ffceaccac22b91a7fca4e_thumbnail.jpg"
+      },
+      "caps": [
+        [
+          "instagram",
+          "Six months in, and this year has already been filled with growth, gratitude, closed deals, and new doors opening. \ud83c\udfe1\u2728\n\nEvery closing represents more than a transaction. It represents trust, action, and the lives being changed through real estate.\n\nWe\u2019re grateful for every client who trusted us, every mentee who took action, every connection made, and every win along the way.\n\nThe first half of the year set the tone. Now we\u2019re ready for more growth, more collaboration, and more impact in the months ahead.\n\nHere\u2019s to the next chapter. \ud83d\udd11\n\n#RealEstateInvesting #ClosedDeals #RealEstateMentorship #RealEstateJourney #RealEstateCommunity"
+        ]
+      ],
+      "cta": {}
+    },
+    {
+      "iso_date": "2026-07-09",
+      "time": "3:00 PM CT",
+      "title": "I still get hypertension driving past\u2026",
+      "chips": [
+        "youtube",
+        "linkedin",
+        "instagram",
+        "facebook"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://debadouglas.s3.us-east-2.amazonaws.com/media/FA51F3BF-BD35-4813-A60C-A68CF68F1CA7.mp4",
+        "poster": "https://images.buffer.com/thumbnail/YFdJGu8wyLrhmFmmyrXDK4nLSTLUwz4iXNVEOxsqRus?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2FFA51F3BF-BD35-4813-A60C-A68CF68F1CA7.mp4"
+      },
+      "caps": [
+        [
+          "youtube",
+          "Deba Douglas left her 9-5 not because everything was perfect, but because staying had become impossible. This is the real story behind why she walked away from education and stepped into real estate investing.\n\nIn this clip from a live Principles of Real Estate session, Deba shares the raw, unfiltered moment she decided her job was no longer an option. It wasn't a calculated leap. It was survival, with bills to pay and a fire inside that refused to settle. What happened next became the foundation of a mission to help everyday W-2 workers find their own way out.\n\nIf you've ever driven past your old job, or your current one, and felt that tension in your chest, this video is for you. Real estate is not just for people who already have money or a background in finance. It's for people who are willing to figure it out, one step at a time.\n\nDeba went from bus driver to real estate investor, and now she teaches others how to do the same. Changing the world, one house at a time.\n\nReady to map out your first move? Book a free strategy call here: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1"
+        ],
+        [
+          "linkedin",
+          "Most people don't leave their job when everything is perfect. They leave when staying becomes too costly.\n\nThat's Deba's story.\n\nBefore building Principles of Real Estate, Deba was working in education with a steady paycheck and a growing frustration she couldn't ignore. She wasn't reading about passive income or attending investment seminars. She was simply asking herself one question: is there another way?\n\nReal estate was the answer.\n\nWhat started as a desperate pivot became a mission to help W-2 workers find the same exit. Not because the path is easy, but because it is possible, even without prior experience, even without a large portfolio, and even when the bills are stacking up.\n\nThe professionals sitting in rooms like this one, whether at a seminar or a community workshop, are the people brave enough to ask \"what's next?\" before they have all the answers.\n\nIf you're in that season right now, let's have a real conversation about what getting started in real estate actually looks like for you.\n\nBook a free strategy call here: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1\n\n#RealEstateInvesting #W2ToFreedom #PrinciplesOfRealEstate #WealthBuilding #DebaDouglas"
+        ],
+        [
+          "instagram",
+          "I still get hypertension driving past my old job. \ud83d\ude05\n\nReal talk. Deba went from counting down the minutes in education to building a real estate business from the ground up. Not because she had it all figured out, but because she knew she HAD to find another way.\n\nShe wasn't thinking about strategy at first. She was thinking about survival. Bills were real. The frustration was real. And that pressure pushed her into the decision that changed everything.\n\nHere's what nobody tells you about leaving your 9-5: you don't need a perfect plan. You need a strong enough reason. For Deba, it was real estate. For a lot of our students, it started the same way.\n\nIf you're sitting at your desk right now thinking \"this cannot be it,\" you're not alone. And you don't have to stay there.\n\nComment \"INVESTOR\" \ud83d\udc47 and let's talk about your next move.\n\n#PrinciplesOfRealEstate #DebaDouglas #W2ToFreedom #RealEstateInvesting #QuitYour9to5 #WealthBuilder #DallasRealEstate #RealEstateCoach #BuyAndHold #FixAndFlip #MindsetShift #InvestorMindset"
+        ],
+        [
+          "facebook",
+          "Deba still gets hypertension driving past her old job. \ud83d\ude05\n\nAnd honestly? That feeling is exactly why she does what she does today.\n\nWhen Deba decided to leave education and step into real estate, she wasn't following some perfectly laid-out plan. She was following urgency. She had bills. She had frustration. And she had a deep knowing that she could not stay where she was.\n\nThat decision, made under pressure, with no guarantees, is the same decision so many of our students have faced. The fear is real. The doubt is real. But so is the life waiting on the other side.\n\nReal estate didn't just change Deba's income. It changed the way she wakes up in the morning. No more counting down the clock. No more dreading Monday. Just purpose, community, and a mission to bring others along for the ride.\n\nIf you've been sitting on the fence, wondering if real estate is actually for someone like you, this one is for you.\n\nYou don't need to be perfect. You just need to start.\n\nComment \"INVESTOR\" \ud83d\udc47 and let's figure out your first step together."
+        ]
+      ],
+      "cta": {
+        "type": "comment",
+        "keyword": "INVESTOR"
+      }
+    },
+    {
+      "iso_date": "2026-07-09",
+      "time": "3:00 PM CT",
+      "title": "She still gets hypertension driving past\u2026",
+      "chips": [
+        "tiktok"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a4f9bc5f298c504734b2dc3_video.mp4",
+        "poster": "https://images.buffer.com/thumbnail/YFdJGu8wyLrhmFmmyrXDK4nLSTLUwz4iXNVEOxsqRus?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2FFA51F3BF-BD35-4813-A60C-A68CF68F1CA7.mp4"
+      },
+      "caps": [
+        [
+          "tiktok",
+          "She still gets hypertension driving past her old job. \ud83d\ude02 Deba didn't leave her 9-5 because everything was lined up perfectly. She left because staying was no longer an option. Bills were real, the frustration was real, and real estate became the way out. That one decision changed everything. If you're stuck in a job that's draining you, you already know this feeling. The question is what are you going to do about it? Real estate is how regular people build something bigger than a paycheck. Comment \"INVESTOR\" \ud83d\udc47 #W2ToFreedom #RealEstateInvesting #QuitYour9to5 #DebaDouglas #PrinciplesOfRealEstate"
+        ]
+      ],
+      "cta": {
+        "type": "comment",
+        "keyword": "INVESTOR"
+      }
+    },
+    {
+      "iso_date": "2026-07-10",
+      "time": "3:00 PM CT",
+      "title": "What's your goal for this year?\u2026",
+      "chips": [
+        "youtube",
+        "linkedin",
+        "instagram",
+        "facebook"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://debadouglas.s3.us-east-2.amazonaws.com/media/Have_big_goals.mov",
+        "poster": "https://images.buffer.com/thumbnail/-udw59pSal93B1JL9U4_ovfIobIhQv17TyJpnjUOBDs?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2FHave_big_goals.mov"
+      },
+      "caps": [
+        [
+          "youtube",
+          "Deba Douglas challenges her mentorship group to set a real goal before buying their first property. In this clip from a live Principles of Real Estate session, she shares how one mentee named Josh set a goal of four houses in one year and hit it.\n\nMost people walk into real estate with a \"let's see what happens\" attitude. But the investors who gain traction fastest come in with a number. A specific, slightly uncomfortable, committed-to number.\n\nIn this session, Deba asks the room: how many houses do you think you can purchase in one year? The answers come quickly. Four. Five. One a quarter. And her message is the same every time: you can do that.\n\nThis is the mindset work that happens inside Principles of Real Estate before anyone runs a single deal. Because the goal is what drives the action, not the other way around.\n\nIf you have been thinking about getting started in real estate but don't know where to point your energy, this video is your starting point.\n\nReady to set your goal and build a real plan around it? Book a strategy call with Deba here: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1\n\nChanging the world, one house at a time."
+        ],
+        [
+          "linkedin",
+          "Most people approach real estate with a \"wait and see\" mindset. The investors who move fastest come in with something different: a goal.\n\nIn a recent Principles of Real Estate session, Deba asked her mentorship group one question. How many properties do you want to acquire in the next twelve months?\n\nOne mentee, Josh, had his answer before the session started. Four houses in one year. It felt ambitious. Maybe even a little uncomfortable. That discomfort, Deba will tell you, is exactly the point.\n\nJosh hit his goal.\n\nThe lesson here is not about a specific number. It is about the discipline of deciding in advance what success looks like. When you name a target, you shift from passive dreamer to active investor. Your decisions start to align around that number. Your urgency changes.\n\nWhether your goal is one property or five, the process of setting it is where the momentum begins.\n\nIf you are ready to put a real number on the board and build a strategy around it, let's connect.\n\nBook a call here: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1\n\n#RealEstateInvesting #WealthBuilder #PrinciplesOfRealEstate #InvestorMindset"
+        ],
+        [
+          "instagram",
+          "What's your goal for this year? \ud83c\udfe1\n\nIn one of our Principles of Real Estate sessions, Deba asked the room a simple question: how many houses do you want to buy in one year?\n\nJosh came into the mentorship with a goal. Not a vague \"let's see what happens\" kind of goal. A real, specific, slightly scary number. Four houses in one year.\n\nHe hit it.\n\nThat's the power of deciding before you start. Your goal doesn't have to be safe. It just has to be yours. One a quarter. Four in a year. Five. Whatever makes your stomach flip a little, that's the one worth chasing.\n\nThe first house changes your life. But the goal is what gets you to the first house.\n\nSo tell me, what's the first number that came to your mind?\n\nComment \"INVESTOR\" \ud83d\udc47 and let's map out how to make that goal real.\n\n#PrinciplesOfRealEstate #DebaDouglas #RealEstateInvesting #W2ToFreedom #WealthBuilder #BuyAndHold #DallasRealEstate #RealEstateGoals #InvestorMindset #GettingStarted"
+        ],
+        [
+          "facebook",
+          "Here's the question Deba asked the room, and it stopped everyone in their tracks.\n\n\"How many houses do you think you can purchase in one year?\"\n\nNot a soft goal. Not a \"let's see what happens.\" A real number. One that makes you a little nervous when you say it out loud.\n\nOne of our mentees, Josh, came into the program with a goal of four houses in one year. Some might have called that ambitious. Josh called it his target. And he hit it.\n\nThat's what happens when you walk in with intention. The goal doesn't have to be perfect. It just has to exist.\n\nWhen Deba asked the room what their goals were, answers came flying, four, five, one a quarter. And her response was the same every time: \"You can do that. Easily.\"\n\nShe meant it. Because she's seen it happen, over and over, with people who used to think real estate wasn't for them.\n\nIf you've got a number in your head right now, that's your starting point.\n\nComment \"INVESTOR\" \ud83d\udc47 and let's talk about what it takes to make that goal your reality."
+        ]
+      ],
+      "cta": {
+        "type": "comment",
+        "keyword": "INVESTOR"
+      }
+    },
+    {
+      "iso_date": "2026-07-10",
+      "time": "3:00 PM CT",
+      "title": "What's your goal? Because \"just seeing\u2026",
+      "chips": [
+        "tiktok"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a50f972078f7fe946232477_video.mov",
+        "poster": "https://images.buffer.com/thumbnail/-udw59pSal93B1JL9U4_ovfIobIhQv17TyJpnjUOBDs?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2FHave_big_goals.mov"
+      },
+      "caps": [
+        [
+          "tiktok",
+          "What's your goal? Because \"just seeing what happens\" is not a plan. \ud83c\udfaf Deba asked her mentorship room how many houses they wanted to buy in one year. Answers ranged from four to five. And her response? \"You can all do that. Easily.\" One mentee, Josh, set a goal of four houses in one year before he even got started. He hit it. The goal has to come first. Pick a number. Make it a little scary. Then build toward it. What's your number? Comment \"INVESTOR\" \ud83d\udc47 #RealEstateInvesting #InvestorMindset #PrinciplesOfRealEstate #DebaDouglas #W2ToFreedom"
+        ]
+      ],
+      "cta": {
+        "type": "comment",
+        "keyword": "INVESTOR"
+      }
+    },
+    {
+      "iso_date": "2026-07-10",
+      "time": "8:23 AM CT",
+      "title": "Owning rental property is never boring.\u2026",
+      "chips": [
+        "instagram"
+      ],
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb662c687a22dd4484705/6a50f53a94f686f76cb59f0d_thumbnail.jpg"
+        ]
+      },
+      "caps": [
+        [
+          "instagram",
+          "Owning rental property is never boring. \ud83d\ude02\n\nToday\u2019s surprise? A tenant moved out\u2026 and left their pet behind. \ud83d\ude33\n\nThankfully my team handled it because if I had walked in first, the group chat would\u2019ve been filled with much less holy language. \ud83d\ude2d\ud83d\ude21\n\nReal estate keeps you humble.\n\nP.S. Still another reason I don\u2019t do potlucks. \ud83e\udd23 \n\nWho wants a guinea pig?"
+        ]
+      ],
+      "cta": {}
+    },
+    {
+      "iso_date": "2026-07-11",
+      "time": "11:40 AM CT",
+      "title": "\ud83c\udfe0 The cheapest house is not\u2026",
+      "chips": [
+        "instagram"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQP9CAaIPvTLf3bnFOjAG935Ocrpc_-wNCUaU1m8Me5RSyCvFLIhCLyWqI-Vu4-kz2YnmJIFqYmwtQZficmmYWNYmgruDug44Qqwikg.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=6tzUFA-W9PIQ7kNvwEOjJdr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTAxNDM0NTEwMTQ4NzkwOSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a58c3fecb269694b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84NzQ4MzcwOTg2RUNBNUZEMUU2N0Y5OEUwNTM1Njk5Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzA5NDJGNDI4OTZGRTk4Q0E5MDdEM0REM0UyRTdEN0IzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbKvKH306LNAxUCKAJDMywXQDVMzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=QVEnSg42SR1-ziHOejck7A&edm=AEQ6tj4EAAAA&_nc_zt=28&oh=00_AQDp8ACfZrMKW-bJu1uV1HuJiYOkRYhCAK-HsdXGi49XTw&oe=6A544CE4",
+        "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb662c687a22dd4484705/6a5272c513f753c02a40bbcc_thumbnail.jpg"
+      },
+      "caps": [
+        [
+          "instagram",
+          "\ud83c\udfe0 The cheapest house is not always the best investment.\n\nA low purchase price can look like a great deal until hidden repairs, a weak neighborhood, or a low resale value destroy your profit.\n\nBefore I purchase an investment property, I look at three things:\n\n1\ufe0f\u20e3 The neighborhood \u2014 Is the area growing, stable, and attractive to buyers or renters?\n2\ufe0f\u20e3 The repairs \u2014 What will it truly cost to make the property market-ready?\n3\ufe0f\u20e3 The after-repair value \u2014 What will the property realistically be worth once the work is complete?\n\nIf the numbers make sense, I move.\n\nIf they don\u2019t, I walk away quickly.\n\nSuccessful investors don\u2019t make money by chasing every \u201ccheap\u201d property. They make money by staying disciplined and buying the right deals.\n\n\ud83d\udcde Want help reviewing a property before you invest? Book a call with me:\nhttps://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1?back=1&month=2026-06"
+        ]
+      ],
+      "cta": {
+        "type": "link"
+      }
+    },
+    {
+      "iso_date": "2026-07-11",
+      "time": "3:00 PM CT",
+      "title": "\"I guarantee you are not going\u2026",
+      "chips": [
+        "youtube",
+        "linkedin",
+        "tiktok",
+        "instagram",
+        "facebook"
+      ],
+      "media": {
+        "type": "video",
+        "src": "https://debadouglas.s3.us-east-2.amazonaws.com/media/Youre_not_going_to_like_me.mov",
+        "poster": "https://images.buffer.com/thumbnail/PywYMAspLlRZ1e5yVZNzOR-F1tkF9ZyRx-80pPWywmA?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2FYoure_not_going_to_like_me.mov"
+      },
+      "caps": [
+        [
+          "youtube",
+          "Deba Douglas opened her Principles of Real Estate cohort kickoff with a bold promise: \"I guarantee you are not going to like me.\" That kind of honesty is exactly what separates real mentorship from a hype session.\n\nIn this clip, Deba breaks down why she will tell a student no on a deal, redirect them to a trusted contractor, and push back when something does not feel right, all to protect them from costly mistakes that show up months later.\n\nReal estate investing is not just about finding deals. It is about having someone in your corner who knows the market, has done the work, and cares more about your outcome than your short-term comfort.\n\nThis is what the Principles of Real Estate program looks like from day one. No fluff. No shortcuts. Just real guidance built on trust and experience.\n\nWhether you are a W-2 worker looking to make your first investment or someone ready to level up your strategy, this video is a look inside the kind of accountability that actually moves people forward.\n\nReady to map out your own path in real estate? Book a call with Deba here: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1"
+        ],
+        [
+          "linkedin",
+          "The best mentors are not always the most comfortable ones.\n\nAt a recent Principles of Real Estate cohort kickoff, Deba opened with a simple promise to her students: \"I guarantee you are not going to like me at times.\" Not because she is harsh, but because real guidance requires honesty over comfort.\n\nShe will say no to a deal when the numbers do not protect the investor. She will redirect you to a contractor she trusts when experience tells her it matters. She will push back when pushing back is what keeps you from a costly mistake six months down the road.\n\nThat is the standard she holds herself to: teach everything, protect the investor, and never steer someone wrong just to keep the peace.\n\nIn real estate, and in business, the advisors worth having are the ones willing to have the hard conversation before the problem shows up, not after.\n\nIf you are weighing your first (or next) move in real estate and want honest guidance you can actually build on, let's talk.\n\nBook a call here: https://calendly.com/bookdeba/road-map-real-estate-investing-property-review-clone-1\n\n#RealEstateInvesting #PrinciplesOfRealEstate #DebaDouglas #Mentorship #WealthBuilding"
+        ],
+        [
+          "tiktok",
+          "\"I guarantee you are not going to like me.\" \ud83c\udfa4\n\nThat's how Deba opened her cohort kickoff. No sugarcoating. No hype.\n\nJust the truth: real mentorship sometimes means hearing no on a deal, being redirected to a better contractor, and being pushed past your comfort zone, because that's what keeps your money safe.\n\nThe mentor who loves you enough to tell you the hard thing is the one who actually gets you to the finish line.\n\nThis is Principles of Real Estate. Real talk. Real results.\n\nComment \"INVESTOR\" \ud83d\udc47 if you're ready for a mentor who's fully in your corner.\n\n#RealEstateInvesting #DebaDouglas #PrinciplesOfRealEstate #RealEstateCoach #W2ToFreedom"
+        ],
+        [
+          "instagram",
+          "\"I guarantee you are not going to like me.\" \ud83d\ude24\n\nThat's how Deba opened the cohort kickoff. And honestly? That's exactly why people trust her.\n\nShe's not here to be your hype person. She's here to protect your money, your time, and your future as a real estate investor.\n\nWhen she tells you no on a deal, it's because she's seen what happens six months later when the house won't sell. When she nudges you toward a specific contractor, it's because she knows that market and that situation better than most.\n\nThe mentors who love you enough to tell you the hard truth are the ones who actually get you results.\n\nThis is what the Principles of Real Estate cohort looks like from day one. Real talk. Real guidance. Real accountability.\n\nIf you're ready for a mentor who will push you, protect you, and teach you everything you need to become a real estate investor, this is your sign.\n\nComment \"INVESTOR\" \ud83d\udc47 and let's get you started.\n\n#PrinciplesOfRealEstate #DebaDouglas #RealEstateInvesting #W2ToFreedom #RealEstateCoach #DallasRealEstate #WealthBuilder #BuyAndHold #FixAndFlip #RealEstateMentorship"
+        ],
+        [
+          "facebook",
+          "\"I guarantee you are not going to like me.\"\n\nThat's how Deba opened the cohort kickoff, and the room got quiet real fast.\n\nBut here's why that statement matters. The best mentors are not the ones who tell you what you want to hear. They are the ones who tell you what you need to hear, even when it's uncomfortable.\n\nWhen Deba says no to a deal, it is not to slow you down. It is to keep you from being stuck with a house that won't sell six months from now. When she points you to a specific contractor instead of the one you found, it is because she has done this long enough to know the difference between a good deal and a costly mistake.\n\nReal mentorship means someone is protecting your investment, your time, and your future, not just cheering you on from the sidelines.\n\nThat is what the Principles of Real Estate cohort is built on. Trust the process. Trust the guidance. And know that every hard conversation is in your corner.\n\nIf you are ready to learn from someone who will give you the real truth about real estate investing, comment \"INVESTOR\" \ud83d\udc47 and we will get you connected."
+        ]
+      ],
+      "cta": {
+        "type": "comment",
+        "keyword": "INVESTOR"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "iso_date": "2026-06-01",
+      "time": "1:13 PM CT",
+      "media": {
+        "type": "video",
+        "src": "https://buffer-media-uploads.s3.amazonaws.com/67e362b27bd165d61f0cf784/6a1dbfda3a494f4249038f5f/6b8c8fa96bcacfdc17524c741113b266.original_transcoded.mp4",
+        "poster": "https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1780334524094/a33fa08b-0eb5-4f53-8691-7e8fe134da47.jpeg"
+      },
+      "sticker": "",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-01",
+      "time": "1:13 PM CT",
+      "media": {
+        "type": "video",
+        "src": "https://buffer-media-uploads.s3.amazonaws.com/67e362b27bd165d61f0cf784/6a1dbfda3a494f4249038f5f/6b8c8fa96bcacfdc17524c741113b266.original_transcoded.mp4",
+        "poster": "https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1780334524094/a33fa08b-0eb5-4f53-8691-7e8fe134da47.jpeg"
+      },
+      "sticker": "",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-02",
+      "time": "8:08 AM CT",
+      "media": {
+        "type": "video",
+        "src": "https://buffer-media-uploads.s3.amazonaws.com/67e362b27bd165d61f0cf784/6a1ed094bf28aab8bf0551f4/d42f4c9c76f2cef91d22e54b94ae00ba.original_transcoded.mp4",
+        "poster": "https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1780404327266/2b5998f4-707a-451f-88bf-d07e7453ffa7.jpeg"
+      },
+      "sticker": "Is working a 9-5 job something you want to do for the rest of your life? \ud83e\udd14\n\nI built a real estate portfolio that pays me whether I show up or not. My mentees are doing the same. And it doesn't take a fancy degree or a trust fund to start. \n\nThis Saturday, June 6th, I'm hosting a FREE Real Estate Investor Showcase in McKinney, TX. You'll see real deals, real numbers, and meet investors who started exactly where you are now.\n\nFree event. Limited seats.\n\n\ud83d\udc49\ud83c\udffe Comment SHOWCASE and I'll DM you the registration link.",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-02",
+      "time": "9:12 AM CT",
+      "media": {
+        "type": "video",
+        "src": "https://buffer-media-uploads.s3.amazonaws.com/67e362b27bd165d61f0cf784/6a1ee204362391112d0a4283/fa70dcc021f7d0ac263dda1e82adcb70.original_transcoded.mp4",
+        "poster": "https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1780408817228/bd640555-6a11-43f4-ae74-e0b21324acdc.jpeg"
+      },
+      "sticker": "",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-19",
+      "time": "2:45 PM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://buffer-media-uploads.s3.amazonaws.com/6a3591290d11dac80502982c/fc97975f39da5b02fb7fa4f45366913216322161_1d733c947cb8b3a1e14761b78ff6b8f778282b58_instagram"
+        ]
+      },
+      "sticker": "Comment INVERTIR and I'll send the link to register.\n\nMeet Juan and Sandra Silva, owners of SJSilva Properties LLC and coaches in the Roadmap to Real Estate Investing. \ud83c\udfd8\ufe0f\n\nThey began as a young couple, tried different businesses until they found real estate. Now they have a thriving portfolio of flips, rentals, and wholesale deals across DFW. Juan is a general contractor handling construction and renovation; Sandra leads operations, acquisitions, and business development. Mentorship changed everything; now they coach other mentees in Deba's program.\n\n#realestateinvesting #mentorship #dfwrealestate #generationalwealth",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-21",
+      "time": "12:00 PM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://buffer-media-uploads.s3.amazonaws.com/6a38159c8b9be39a81070495/b9ba29d0200ab14995378e1dec49a0cb40214ffe_d5cf26a9b1f717dba62a4495e7ff50f0bd21e2ce_instagram"
+        ]
+      },
+      "sticker": "Happy Father's Day to the man who builds with me in every way. \ud83c\udfe1\u2764\ufe0f\n\nSamson, watching you love our children and walk this journey with me means everything. None of this works without you.\nTo every father out there doing the work, showing up, and building a legacy for your family. Today is for you.\n\n#HappyFathersDay #Grateful #FamilyFirst #Legacy",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-23",
+      "time": "2:00 PM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://raw.githubusercontent.com/islandforge-diego/deba-content-preview/main/stories/Day2_Tue_Mentee.png?v=6"
+        ]
+      },
+      "sticker": "Mentee Tuesday \u2014 add Poll sticker: \"Go solo\" vs \"With a coach\"",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-23",
+      "time": "3:00 PM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://buffer-media-uploads.s3.amazonaws.com/6a3947935193f489595a3e94/c7106351e8c28aef5ff97616ef206d8ec68f48ce_d20e1596259b20916c20f422a041b653696ed5aa_instagram"
+        ]
+      },
+      "sticker": "Big thanks @longhorn_investments for wonderful Happy Hour \ud83e\udd42\n\nThere's nothing like getting our Principles of Real Estate family together \u2014 good people, good energy, and a whole lot of laughs. This is what the journey looks like off the spreadsheets. \ud83c\udfe1\n\nBig thanks to our sponsor @longhorn_investments for helping make nights like this happen. \ud83e\udd1d\n\nWant to be part of the next cohort? Comment \"Showcase\" \ud83d\udc47 to join our free real estate showcase.\n\n#realestateinvesting #mentorship #dfwrealestate #debaflipstexas #realestatecommunity #generationalwealth",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-24",
+      "time": "7:00 AM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://raw.githubusercontent.com/islandforge-diego/deba-content-preview/main/stories/Day3_Wed_WealthBuilding.png"
+        ]
+      },
+      "sticker": "Wealth-Building Wednesday \u2014 CTA: DM \"INVESTOR\"",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-25",
+      "time": "7:00 AM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://raw.githubusercontent.com/islandforge-diego/deba-content-preview/main/stories/Day4_Thu_Transformation.png?v=8"
+        ]
+      },
+      "sticker": "Transformation Thursday \u2014 add Poll sticker: \"Flip it or rent it out?\"",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-26",
+      "time": "7:00 AM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://raw.githubusercontent.com/islandforge-diego/deba-content-preview/main/stories/Day5_Fri_Teaching.png"
+        ]
+      },
+      "sticker": "Teaching Friday \u2014 add Question box: \"Ask me anything about investing\"",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-27",
+      "time": "7:00 AM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://raw.githubusercontent.com/islandforge-diego/deba-content-preview/main/stories/Day6_Sat_Community.png?v=6"
+        ]
+      },
+      "sticker": "Community Saturday \u2014 add Poll sticker: \"Would you come to an event like this?\"",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-27",
+      "time": "7:07 AM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://buffer-media-uploads.s3.amazonaws.com/6a3fbcf30b652ee4b502819c/89f0ae43af3ab8182fcce59a0ba623eafb9d792f_054927a1c8ea73f175416fca7caa23c7ddd1a209_facebook"
+        ]
+      },
+      "sticker": "",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-27",
+      "time": "7:07 AM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://buffer-media-uploads.s3.amazonaws.com/6a3fbcf437448387d60333e7/89f0ae43af3ab8182fcce59a0ba623eafb9d792f_360f356fc48333bb620e38543dc1964e0744a302_instagram"
+        ]
+      },
+      "sticker": "",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-28",
+      "time": "7:00 AM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://buffer-media-uploads.s3.amazonaws.com/6a3acafdae05f68c499f19f7/3ccb03bbae6dd508c19d7c91195ee5e0900fb58f_b05aca907bc4e1d736b636f8936008edbaf4d3d9_instagram"
+        ]
+      },
+      "sticker": "Faith & Freedom Sunday \u2014 add Question box: \"What would freedom let you do?\"",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-29",
+      "time": "7:00 AM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://debadouglas.s3.us-east-2.amazonaws.com/media/story_FX200806.jpg"
+        ]
+      },
+      "sticker": "Question: What's the ONE thing holding you back from your first deal?",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-06-30",
+      "time": "7:00 AM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://debadouglas.s3.us-east-2.amazonaws.com/media/story_FX200886.jpg"
+        ]
+      },
+      "sticker": "Question: What's one thing you wish you'd known before your first deal?",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-07-01",
+      "time": "7:00 PM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://debadouglas.s3.us-east-2.amazonaws.com/media/story_FX201473.jpg"
+        ]
+      },
+      "sticker": "Question: What's one win from the first half of 2024 you're most proud of?",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-07-02",
+      "time": "3:00 PM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://debadouglas.s3.us-east-2.amazonaws.com/media/story_FX201492.jpg"
+        ]
+      },
+      "sticker": "https://inspirenstyle.com/juneteenth-fashion-show-legacy-west-think-three-media-2026/",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-07-03",
+      "time": "7:00 AM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://debadouglas.s3.us-east-2.amazonaws.com/media/story_text_8e28236d.jpg"
+        ]
+      },
+      "sticker": "Poll: Office at 200K vs Home at 150K vs Anywhere at 100K?",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-07-04",
+      "time": "7:00 AM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://debadouglas.s3.us-east-2.amazonaws.com/media/story_FX201514.jpg"
+        ]
+      },
+      "sticker": "Question: Who's your real estate ride or die?",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-07-05",
+      "time": "12:01 PM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://buffer-media-uploads.s3.amazonaws.com/6a4a8dbc98312e233402ba34/0fb30b1930379c3f937814a5de2f7c6e92a62ef0_6f3c5249f500868280b1c21968e977db0ca8c12c_instagram"
+        ]
+      },
+      "sticker": "",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-07-05",
+      "time": "4:05 PM CT",
+      "media": {
+        "type": "video",
+        "src": "https://debadouglas.s3.us-east-2.amazonaws.com/media/D3CE813D-A89F-4F83-8955-960E57BCDB76.MP4",
+        "poster": "https://images.buffer.com/thumbnail/y0EHUT0tHfzGotoiS0ZrRxMozPjlsSLz9SKgnFMftgQ?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2FD3CE813D-A89F-4F83-8955-960E57BCDB76.MP4"
+      },
+      "sticker": "Your GC said they'd be doing the roof today. Did you actually check? \ud83d\udc40\n\nThis clip is straight from our cohort kickoff, and coaches Jenn and Jose are keeping it real. The moment you look away, your contractors can drift. Not always on purpose, but it happens. And when you're investing your money into a renovation, \"I assumed\" is not a strategy.\n\nHere's what they teach inside the program:\n\nIf you can, show up every single day.\nIf you have a W-2 and can't do that, at least drive by. Make sure someone is on site. Confirm that the work scheduled for that day is actually the work getting done.\n\nYour GC says roofing today? Verify roofing is happening, not framing, not foundation. Today's work, not yesterday's.\n\nAnd if life pulls you away? Your coaches have your back. That's what real support looks like.\n\nThis is fix and flip in the real world. No shortcuts, no assumptions, just eyes on the prize. \ud83c\udfda\ufe0f\n\nComment \"INVERTIR\" \ud83d\udc47 and let's get you started the right way.\n\n#PrinciplesOfRealEstate #DebaDouglas #FixAndFlip #RealEstateInvesting #W2ToFreedom #DallasRealEstate #RealEstateCoach #WealthBuilder #BuyAndHold",
+      "title": ""
+    },
+    {
+      "iso_date": "2026-07-06",
+      "time": "7:00 AM CT",
+      "media": {
+        "type": "gallery",
+        "images": [
+          "https://debadouglas.s3.us-east-2.amazonaws.com/media/story_text_6598dd29.jpg"
+        ]
+      },
+      "sticker": "Poll: Under $10K / $10K\u2013$50K / $50K+ / No idea",
+      "title": ""
     }
   ],
   "kpis": {
-    "posts": 352,
-    "reach": 236930,
-    "impressions": 4862,
-    "views": 272826,
-    "engagement": 8778,
-    "engagement_rate": 5.49,
+    "posts": 381,
+    "reach": 236909,
+    "impressions": 6094,
+    "views": 275952,
+    "engagement": 8730,
+    "engagement_rate": 5.05,
     "engagement_rate_total": 3.2,
     "by_platform": {
       "instagram": {
-        "reach": 35776,
-        "engagement": 2543,
-        "posts": 115,
-        "views": 57361,
-        "saves": 67,
-        "follows": 8
+        "reach": 35519,
+        "engagement": 2436,
+        "posts": 119,
+        "views": 56834,
+        "saves": 64,
+        "follows": 7
       },
-      "facebook": {
-        "reach": 184783,
-        "engagement": 5606,
-        "posts": 16,
-        "views": 187294,
-        "saves": 0,
-        "follows": 0
-      },
-      "tiktok": {
-        "reach": 14919,
-        "engagement": 447,
-        "posts": 52,
-        "views": 17345,
+      "youtube": {
+        "reach": 0,
+        "engagement": 121,
+        "posts": 28,
+        "views": 11127,
         "saves": 0,
         "follows": 0
       },
       "linkedin": {
-        "reach": 1452,
-        "engagement": 90,
-        "posts": 146,
-        "views": 2351,
+        "reach": 1648,
+        "engagement": 96,
+        "posts": 158,
+        "views": 2617,
         "saves": 0,
         "follows": 0
       },
-      "youtube": {
-        "reach": 0,
-        "engagement": 92,
-        "posts": 23,
-        "views": 8475,
+      "tiktok": {
+        "reach": 14959,
+        "engagement": 470,
+        "posts": 56,
+        "views": 17114,
+        "saves": 0,
+        "follows": 0
+      },
+      "facebook": {
+        "reach": 184783,
+        "engagement": 5607,
+        "posts": 20,
+        "views": 188260,
         "saves": 0,
         "follows": 0
       }
@@ -4563,14 +5341,14 @@
       {
         "title": "I said I was gonna be mad. I\u2026",
         "platform": "instagram",
-        "reach": 1655,
-        "engagement": 146,
+        "reach": 1664,
+        "engagement": 147,
         "externalLink": "https://www.instagram.com/reel/DZfl1DqxD7j/",
         "asset_type": "Video",
         "date": "2026-06-12",
         "m": {
-          "views": 2586,
-          "likes": 137,
+          "views": 2592,
+          "likes": 138,
           "comments": 5,
           "shares": 4,
           "saves": 0,
@@ -4585,14 +5363,14 @@
       {
         "title": "\u201cI\u2019m trying to contain myself.\u201d \ud83d\ude04 Meet @internationalphife,\u2026",
         "platform": "instagram",
-        "reach": 1528,
-        "engagement": 208,
+        "reach": 1531,
+        "engagement": 209,
         "externalLink": "https://www.instagram.com/reel/DZX05qQRpPN/",
         "asset_type": "Video",
         "date": "2026-06-09",
         "m": {
-          "views": 2340,
-          "likes": 153,
+          "views": 2347,
+          "likes": 154,
           "comments": 38,
           "shares": 14,
           "saves": 3,
@@ -4676,14 +5454,14 @@
         {
           "title": "I said I was gonna be mad. I\u2026",
           "platform": "instagram",
-          "reach": 1655,
-          "engagement": 146,
+          "reach": 1664,
+          "engagement": 147,
           "externalLink": "https://www.instagram.com/reel/DZfl1DqxD7j/",
           "asset_type": "Video",
           "date": "2026-06-12",
           "m": {
-            "views": 2586,
-            "likes": 137,
+            "views": 2592,
+            "likes": 138,
             "comments": 5,
             "shares": 4,
             "saves": 0,
@@ -4698,14 +5476,14 @@
         {
           "title": "\u201cI\u2019m trying to contain myself.\u201d \ud83d\ude04 Meet @internationalphife,\u2026",
           "platform": "instagram",
-          "reach": 1528,
-          "engagement": 208,
+          "reach": 1531,
+          "engagement": 209,
           "externalLink": "https://www.instagram.com/reel/DZX05qQRpPN/",
           "asset_type": "Video",
           "date": "2026-06-09",
           "m": {
-            "views": 2340,
-            "likes": 153,
+            "views": 2347,
+            "likes": 154,
             "comments": 38,
             "shares": 14,
             "saves": 3,
@@ -4737,344 +5515,6 @@
             "type": "video",
             "src": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQMAxfJdMC3iixGZJSUpxoq74Qpa7HdLf3ai7docAj5QFTRIogziqxMpvxRadD42FamoDtP6Jv4RB-dg4P0Y6yvimSxf8xlErpbLBdI.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=I5x8yPJnhf4Q7kNvwFJwLcy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjM0MjQ3MDQwMjkxMTIyNywiYXNzZXRfYWdlX2RheXMiOjE4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ca8f63d697a910b4&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DMjRFNEQ3Qjg3MjQ0RUJCMEMwMTIyNzE4QUE1NDg4Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0MyNEFBMzJFMjZCQ0I3QjFEOTc1OEY3QzA3QzFEMThGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb2r5nE3J2pCBUCKAJDMywXQFllT987ZFoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=eET9RVmj-xAFAKhwfuJCPg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGAqRkeDZ2tc56LGRYFuV-TxpbM1I1DZpAHllChvdDGNK-VFlyA60yfon13fWMBhfIrsgIrVS6Zdg&oh=00_Af-UTk3mwHeglAxh_EUdmSQ009vfsahVHKd8KRSqWIV2AA&oe=6A1EAD6F",
             "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb662c687a22dd4484705/6a1cb66408fdc25786a47c7b_thumbnail.jpg"
-          }
-        }
-      ],
-      "facebook": [
-        {
-          "title": "My student just netted $28K on his flip.\u2026",
-          "platform": "facebook",
-          "reach": 0,
-          "engagement": 6,
-          "externalLink": "https://www.facebook.com/reel/1684214235957829/",
-          "asset_type": "Video",
-          "date": "2026-06-01",
-          "m": {
-            "views": 815,
-            "likes": 2,
-            "comments": 0,
-            "shares": 4,
-            "saves": 0,
-            "watch_min": 0.0
-          },
-          "media": {
-            "type": "video",
-            "src": "https://buffer-media-uploads.s3.amazonaws.com/67e362b27bd165d61f0cf784/6a1d71339491da0b2c056dee/b1137d95bc47c5594d372a7d31c71ff9.original_transcoded.mp4",
-            "poster": "https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1780314414040/31247818-9b5a-49ab-8c4f-d8ac7218df2a.jpeg"
-          }
-        },
-        {
-          "title": "Is working a 9-5 job something you want\u2026",
-          "platform": "facebook",
-          "reach": 0,
-          "engagement": 3,
-          "externalLink": "https://www.facebook.com/reel/1000818495971526/",
-          "asset_type": "Video",
-          "date": "2026-06-02",
-          "m": {
-            "views": 313,
-            "likes": 2,
-            "comments": 0,
-            "shares": 1,
-            "saves": 0,
-            "watch_min": 0.0
-          },
-          "media": {
-            "type": "video",
-            "src": "https://buffer-media-uploads.s3.amazonaws.com/67e362b27bd165d61f0cf784/6a1ed094bf28aab8bf0551f4/d42f4c9c76f2cef91d22e54b94ae00ba.original_transcoded.mp4",
-            "poster": "https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1780404327266/2b5998f4-707a-451f-88bf-d07e7453ffa7.jpeg"
-          }
-        },
-        {
-          "title": "How to make money with one skill. \ud83d\udcb0\u2026",
-          "platform": "facebook",
-          "reach": 0,
-          "engagement": 0,
-          "externalLink": "https://www.facebook.com/reel/1016764777511021/",
-          "asset_type": "Video",
-          "date": "2026-06-24",
-          "m": {
-            "views": 245,
-            "likes": 0,
-            "comments": 0,
-            "shares": 0,
-            "saves": 0,
-            "watch_min": 0.0
-          },
-          "media": {
-            "type": "video",
-            "src": "https://buffer-media-uploads.s3.amazonaws.com/67e362b27bd165d61f0cf784/6a38262648cf24cb7e0f8211/2714214a971af3c92007d44ea0e60d50.original_transcoded.mp4",
-            "poster": "https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1782064622986/8c320970-99ff-4e8e-acc1-22c511ac412d.jpeg"
-          }
-        },
-        {
-          "title": "We asked our clients: \"What makes Deba a\u2026",
-          "platform": "facebook",
-          "reach": 0,
-          "engagement": 0,
-          "externalLink": "https://www.facebook.com/reel/1035583202172553/",
-          "asset_type": "Video",
-          "date": "2026-06-25",
-          "m": {
-            "views": 230,
-            "likes": 0,
-            "comments": 0,
-            "shares": 0,
-            "saves": 0,
-            "watch_min": 0.0
-          },
-          "media": {
-            "type": "video",
-            "src": "https://res.cloudinary.com/dpwh4baly/video/upload/v1782071184/Blue_Jacket_Interview_Clip_2_ma5qdo.mov",
-            "poster": "https://images.buffer.com/thumbnail/49YVsIskFzBUCkxMRCTl2AjtLymJX9CAP8iuBwSSUKg?url=https%3A%2F%2Fres.cloudinary.com%2Fdpwh4baly%2Fvideo%2Fupload%2Fv1782071184%2FBlue_Jacket_Interview_Clip_2_ma5qdo.mov"
-          }
-        },
-        {
-          "title": "The importance of getting started in real estate\u2026",
-          "platform": "facebook",
-          "reach": 0,
-          "engagement": 0,
-          "externalLink": "https://www.facebook.com/reel/1203603006167481/",
-          "asset_type": "Video",
-          "date": "2026-06-26",
-          "m": {
-            "views": 224,
-            "likes": 0,
-            "comments": 0,
-            "shares": 0,
-            "saves": 0,
-            "watch_min": 0.0
-          },
-          "media": {
-            "type": "video",
-            "src": "https://res.cloudinary.com/dpwh4baly/video/upload/v1782071193/Showcase_Get_Started_lxvvca.mov",
-            "poster": "https://images.buffer.com/thumbnail/CEKDqX6HW4YvYTLQwAmOlcwU8SG3EQR6Yt-E2OoEdA8?url=https%3A%2F%2Fres.cloudinary.com%2Fdpwh4baly%2Fvideo%2Fupload%2Fv1782071193%2FShowcase_Get_Started_lxvvca.mov"
-          }
-        }
-      ],
-      "tiktok": [
-        {
-          "title": "When I was still a principal, nobody handed\u2026",
-          "platform": "tiktok",
-          "reach": 1138,
-          "engagement": 28,
-          "externalLink": "https://www.tiktok.com/@debaflipstexas/video/7652074298718424334?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-          "asset_type": "Image",
-          "date": "2026-06-16",
-          "m": {
-            "views": 1229,
-            "likes": 28,
-            "comments": 0,
-            "shares": 0,
-            "saves": 0,
-            "watch_min": 0.0
-          },
-          "media": {
-            "type": "gallery",
-            "images": [
-              "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a32ca6278f0ae8dd10b637d_thumbnail.webp"
-            ]
-          }
-        },
-        {
-          "title": "our bank said no. Your network said yes.\u2026",
-          "platform": "tiktok",
-          "reach": 841,
-          "engagement": 30,
-          "externalLink": "https://www.tiktok.com/@debaflipstexas/video/7643138253566070029?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-          "asset_type": "Video",
-          "date": "2026-05-23",
-          "m": {
-            "views": 924,
-            "likes": 30,
-            "comments": 0,
-            "shares": 0,
-            "saves": 0,
-            "watch_min": 0.0
-          },
-          "media": {
-            "type": "video",
-            "src": "https://www.tiktok.com/@debaflipstexas/video/7643138253566070029?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-            "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a1cb8571bdf519a772e470d_thumbnail.jpg"
-          }
-        },
-        {
-          "title": "The first step to becoming a real estate\u2026",
-          "platform": "tiktok",
-          "reach": 828,
-          "engagement": 37,
-          "externalLink": "https://www.tiktok.com/@debaflipstexas/video/7640548774460345613?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-          "asset_type": "Video",
-          "date": "2026-05-16",
-          "m": {
-            "views": 901,
-            "likes": 36,
-            "comments": 0,
-            "shares": 1,
-            "saves": 0,
-            "watch_min": 0.0
-          },
-          "media": {
-            "type": "video",
-            "src": "https://www.tiktok.com/@debaflipstexas/video/7640548774460345613?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-            "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a1cb8571bdf519a772e470f_thumbnail.jpg"
-          }
-        },
-        {
-          "title": "Nobody builds wealth alone. \ud83c\udfe1\u2728 I've spent years\u2026",
-          "platform": "tiktok",
-          "reach": 729,
-          "engagement": 19,
-          "externalLink": "https://www.tiktok.com/@debaflipstexas/video/7641669058529660174?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-          "asset_type": "Image",
-          "date": "2026-05-19",
-          "m": {
-            "views": 885,
-            "likes": 19,
-            "comments": 0,
-            "shares": 0,
-            "saves": 0,
-            "watch_min": 0.0
-          },
-          "media": {
-            "type": "gallery",
-            "images": [
-              "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a1cb8571bdf519a772e47a9_thumbnail.webp"
-            ]
-          }
-        },
-        {
-          "title": "Nobody cares about the story. The numbers either\u2026",
-          "platform": "tiktok",
-          "reach": 792,
-          "engagement": 17,
-          "externalLink": "https://www.tiktok.com/@debaflipstexas/video/7637943130716753166?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-          "asset_type": "Video",
-          "date": "2026-05-09",
-          "m": {
-            "views": 867,
-            "likes": 17,
-            "comments": 0,
-            "shares": 0,
-            "saves": 0,
-            "watch_min": 0.0
-          },
-          "media": {
-            "type": "video",
-            "src": "https://www.tiktok.com/@debaflipstexas/video/7637943130716753166?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-            "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a1cb8571bdf519a772e47e3_thumbnail.jpg"
-          }
-        }
-      ],
-      "linkedin": [
-        {
-          "title": "Still waiting around at your properties for in-person\u2026",
-          "platform": "linkedin",
-          "reach": 87,
-          "engagement": 7,
-          "externalLink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7463265966945165312",
-          "asset_type": "Video",
-          "date": "2026-05-21",
-          "m": {
-            "views": 181,
-            "likes": 7,
-            "comments": 0,
-            "shares": 0,
-            "saves": 0,
-            "watch_min": 18.0
-          },
-          "media": {
-            "type": "video",
-            "src": "https://media.licdn.com/dms/image/v2/D5605AQHBez4gIZuEuQ/videocover-high/B56Z5LY3uvGoBQ-/0/1779381274268?e=1780873200&v=beta&t=QwJPDvk05eTyXAX0LrJsaFCoLc1OiSnbuRHM-NEVaFw&expires-ts=1780873200000",
-            "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb7a4c687a22dd4484a78/6a1cb7b81620f20ca75311cb_thumbnail.jpg"
-          }
-        },
-        {
-          "title": "Delays cost time AND money. If your draw\u2026",
-          "platform": "linkedin",
-          "reach": 106,
-          "engagement": 6,
-          "externalLink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7468333116714065920",
-          "asset_type": "Video",
-          "date": "2026-06-04",
-          "m": {
-            "views": 154,
-            "likes": 6,
-            "comments": 0,
-            "shares": 0,
-            "saves": 0,
-            "watch_min": 10.6
-          },
-          "media": {
-            "type": "video",
-            "src": "https://media.licdn.com/dms/image/v2/D5605AQEKuuVqBwc1wA/videocover-high/B56Z6TaO8zH0BM-/0/1780589593490?e=1781276400&v=beta&t=Og7pgvfUGTxU_boZgHp0LPwGjSFA7iKNL_MYt0KuKlQ&expires-ts=1781276400000",
-            "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb7a4c687a22dd4484a78/6a22e3ac8ccf23b62fd1cfcd_thumbnail.jpg"
-          }
-        },
-        {
-          "title": "Happy Father's Day to the man who builds\u2026",
-          "platform": "linkedin",
-          "reach": 55,
-          "engagement": 9,
-          "externalLink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7474506548640210944",
-          "asset_type": "Image",
-          "date": "2026-06-21",
-          "m": {
-            "views": 91,
-            "likes": 9,
-            "comments": 0,
-            "shares": 0,
-            "saves": 0,
-            "watch_min": 0.0
-          },
-          "media": {
-            "type": "gallery",
-            "images": [
-              "https://buffer-media-uploads.s3.amazonaws.com/6a38159ca66a5e7cd3038d6c/c0c915681ca26171b20778332ffae5c067bbd633_d4732352766b69287232e267c94f8475258aef68_linkedin"
-            ]
-          }
-        },
-        {
-          "title": "7 rules before you make your first real\u2026",
-          "platform": "linkedin",
-          "reach": 48,
-          "engagement": 1,
-          "externalLink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7472728386579378176",
-          "asset_type": "Image",
-          "date": "2026-06-16",
-          "m": {
-            "views": 79,
-            "likes": 1,
-            "comments": 0,
-            "shares": 0,
-            "saves": 0,
-            "watch_min": 0.0
-          },
-          "media": {
-            "type": "gallery",
-            "images": []
-          }
-        },
-        {
-          "title": "Raise your hand if you are tired of\u2026",
-          "platform": "linkedin",
-          "reach": 47,
-          "engagement": 1,
-          "externalLink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7465796711664345088",
-          "asset_type": "Video",
-          "date": "2026-05-28",
-          "m": {
-            "views": 68,
-            "likes": 1,
-            "comments": 0,
-            "shares": 0,
-            "saves": 0,
-            "watch_min": 4.4
-          },
-          "media": {
-            "type": "video",
-            "src": "https://media.licdn.com/dms/image/v2/D5605AQGlP4A85DX20Q/videocover-high/B56Z5vXXf2HcBM-/0/1779984859535?e=1780873200&v=beta&t=LgvP2P4QsHAuz2L9v-zyl6kLBgMQgC4uhtuHuCwx5OQ&expires-ts=1780873200000",
-            "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb7a4c687a22dd4484a78/6a1cb7b81620f20ca75311d7_thumbnail.jpg"
           }
         }
       ],
@@ -5189,9 +5629,347 @@
             "poster": "https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1780582748296/1c7222a9-ff5d-4402-bbdc-80a6d4376210.jpeg"
           }
         }
+      ],
+      "linkedin": [
+        {
+          "title": "Still waiting around at your properties for in-person\u2026",
+          "platform": "linkedin",
+          "reach": 87,
+          "engagement": 7,
+          "externalLink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7463265966945165312",
+          "asset_type": "Video",
+          "date": "2026-05-21",
+          "m": {
+            "views": 181,
+            "likes": 7,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "watch_min": 18.0
+          },
+          "media": {
+            "type": "video",
+            "src": "https://media.licdn.com/dms/image/v2/D5605AQHBez4gIZuEuQ/videocover-high/B56Z5LY3uvGoBQ-/0/1779381274268?e=1780873200&v=beta&t=QwJPDvk05eTyXAX0LrJsaFCoLc1OiSnbuRHM-NEVaFw&expires-ts=1780873200000",
+            "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb7a4c687a22dd4484a78/6a1cb7b81620f20ca75311cb_thumbnail.jpg"
+          }
+        },
+        {
+          "title": "Delays cost time AND money. If your draw\u2026",
+          "platform": "linkedin",
+          "reach": 106,
+          "engagement": 6,
+          "externalLink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7468333116714065920",
+          "asset_type": "Video",
+          "date": "2026-06-04",
+          "m": {
+            "views": 154,
+            "likes": 6,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "watch_min": 10.6
+          },
+          "media": {
+            "type": "video",
+            "src": "https://media.licdn.com/dms/image/v2/D5605AQEKuuVqBwc1wA/videocover-high/B56Z6TaO8zH0BM-/0/1780589593490?e=1781276400&v=beta&t=Og7pgvfUGTxU_boZgHp0LPwGjSFA7iKNL_MYt0KuKlQ&expires-ts=1781276400000",
+            "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb7a4c687a22dd4484a78/6a22e3ac8ccf23b62fd1cfcd_thumbnail.jpg"
+          }
+        },
+        {
+          "title": "Happy Father's Day to the man who builds\u2026",
+          "platform": "linkedin",
+          "reach": 55,
+          "engagement": 9,
+          "externalLink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7474506548640210944",
+          "asset_type": "Image",
+          "date": "2026-06-21",
+          "m": {
+            "views": 91,
+            "likes": 9,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "watch_min": 0.0
+          },
+          "media": {
+            "type": "gallery",
+            "images": [
+              "https://buffer-media-uploads.s3.amazonaws.com/6a38159ca66a5e7cd3038d6c/c0c915681ca26171b20778332ffae5c067bbd633_d4732352766b69287232e267c94f8475258aef68_linkedin"
+            ]
+          }
+        },
+        {
+          "title": "7 rules before you make your first real\u2026",
+          "platform": "linkedin",
+          "reach": 48,
+          "engagement": 1,
+          "externalLink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7472728386579378176",
+          "asset_type": "Image",
+          "date": "2026-06-16",
+          "m": {
+            "views": 79,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "watch_min": 0.0
+          },
+          "media": {
+            "type": "gallery",
+            "images": []
+          }
+        },
+        {
+          "title": "One of the most overlooked skills in real\u2026",
+          "platform": "linkedin",
+          "reach": 60,
+          "engagement": 2,
+          "externalLink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7479641120415653888",
+          "asset_type": "Video",
+          "date": "2026-07-05",
+          "m": {
+            "views": 73,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "watch_min": 3.5
+          },
+          "media": {
+            "type": "video",
+            "src": "https://debadouglas.s3.us-east-2.amazonaws.com/media/D3CE813D-A89F-4F83-8955-960E57BCDB76.MP4",
+            "poster": "https://images.buffer.com/thumbnail/y0EHUT0tHfzGotoiS0ZrRxMozPjlsSLz9SKgnFMftgQ?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2FD3CE813D-A89F-4F83-8955-960E57BCDB76.MP4"
+          }
+        }
+      ],
+      "tiktok": [
+        {
+          "title": "When I was still a principal, nobody handed\u2026",
+          "platform": "tiktok",
+          "reach": 1138,
+          "engagement": 28,
+          "externalLink": "https://www.tiktok.com/@debaflipstexas/video/7652074298718424334?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+          "asset_type": "Image",
+          "date": "2026-06-16",
+          "m": {
+            "views": 1233,
+            "likes": 28,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "watch_min": 0.0
+          },
+          "media": {
+            "type": "gallery",
+            "images": [
+              "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a32ca6278f0ae8dd10b637d_thumbnail.webp"
+            ]
+          }
+        },
+        {
+          "title": "our bank said no. Your network said yes.\u2026",
+          "platform": "tiktok",
+          "reach": 841,
+          "engagement": 30,
+          "externalLink": "https://www.tiktok.com/@debaflipstexas/video/7643138253566070029?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+          "asset_type": "Video",
+          "date": "2026-05-23",
+          "m": {
+            "views": 924,
+            "likes": 30,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "watch_min": 0.0
+          },
+          "media": {
+            "type": "video",
+            "src": "https://www.tiktok.com/@debaflipstexas/video/7643138253566070029?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+            "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a1cb8571bdf519a772e470d_thumbnail.jpg"
+          }
+        },
+        {
+          "title": "The first step to becoming a real estate\u2026",
+          "platform": "tiktok",
+          "reach": 828,
+          "engagement": 37,
+          "externalLink": "https://www.tiktok.com/@debaflipstexas/video/7640548774460345613?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+          "asset_type": "Video",
+          "date": "2026-05-16",
+          "m": {
+            "views": 901,
+            "likes": 36,
+            "comments": 0,
+            "shares": 1,
+            "saves": 0,
+            "watch_min": 0.0
+          },
+          "media": {
+            "type": "video",
+            "src": "https://www.tiktok.com/@debaflipstexas/video/7640548774460345613?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+            "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a1cb8571bdf519a772e470f_thumbnail.jpg"
+          }
+        },
+        {
+          "title": "Nobody builds wealth alone. \ud83c\udfe1\u2728 I've spent years\u2026",
+          "platform": "tiktok",
+          "reach": 729,
+          "engagement": 19,
+          "externalLink": "https://www.tiktok.com/@debaflipstexas/video/7641669058529660174?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+          "asset_type": "Image",
+          "date": "2026-05-19",
+          "m": {
+            "views": 885,
+            "likes": 19,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "watch_min": 0.0
+          },
+          "media": {
+            "type": "gallery",
+            "images": [
+              "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a1cb8571bdf519a772e47a9_thumbnail.webp"
+            ]
+          }
+        },
+        {
+          "title": "Still waiting around at your properties for in-person\u2026",
+          "platform": "tiktok",
+          "reach": 627,
+          "engagement": 11,
+          "externalLink": "https://www.tiktok.com/@debaflipstexas/video/7642384815500643598?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+          "asset_type": "Video",
+          "date": "2026-05-21",
+          "m": {
+            "views": 692,
+            "likes": 11,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "watch_min": 0.0
+          },
+          "media": {
+            "type": "video",
+            "src": "https://www.tiktok.com/@debaflipstexas/video/7642384815500643598?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+            "poster": "https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb855c687a22dd4484c34/6a1cb8571bdf519a772e4713_thumbnail.jpg"
+          }
+        }
+      ],
+      "facebook": [
+        {
+          "title": "My student just netted $28K on his flip.\u2026",
+          "platform": "facebook",
+          "reach": 0,
+          "engagement": 6,
+          "externalLink": "https://www.facebook.com/reel/1684214235957829/",
+          "asset_type": "Video",
+          "date": "2026-06-01",
+          "m": {
+            "views": 815,
+            "likes": 2,
+            "comments": 0,
+            "shares": 4,
+            "saves": 0,
+            "watch_min": 0.0
+          },
+          "media": {
+            "type": "video",
+            "src": "https://buffer-media-uploads.s3.amazonaws.com/67e362b27bd165d61f0cf784/6a1d71339491da0b2c056dee/b1137d95bc47c5594d372a7d31c71ff9.original_transcoded.mp4",
+            "poster": "https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1780314414040/31247818-9b5a-49ab-8c4f-d8ac7218df2a.jpeg"
+          }
+        },
+        {
+          "title": "Is working a 9-5 job something you want\u2026",
+          "platform": "facebook",
+          "reach": 0,
+          "engagement": 3,
+          "externalLink": "https://www.facebook.com/reel/1000818495971526/",
+          "asset_type": "Video",
+          "date": "2026-06-02",
+          "m": {
+            "views": 313,
+            "likes": 2,
+            "comments": 0,
+            "shares": 1,
+            "saves": 0,
+            "watch_min": 0.0
+          },
+          "media": {
+            "type": "video",
+            "src": "https://buffer-media-uploads.s3.amazonaws.com/67e362b27bd165d61f0cf784/6a1ed094bf28aab8bf0551f4/d42f4c9c76f2cef91d22e54b94ae00ba.original_transcoded.mp4",
+            "poster": "https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1780404327266/2b5998f4-707a-451f-88bf-d07e7453ffa7.jpeg"
+          }
+        },
+        {
+          "title": "Coaches Jenn and Jose dropped some serious truth\u2026",
+          "platform": "facebook",
+          "reach": 0,
+          "engagement": 1,
+          "externalLink": "https://www.facebook.com/reel/1042251118309385/",
+          "asset_type": "Video",
+          "date": "2026-07-05",
+          "m": {
+            "views": 279,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "watch_min": 0.0
+          },
+          "media": {
+            "type": "video",
+            "src": "https://debadouglas.s3.us-east-2.amazonaws.com/media/D3CE813D-A89F-4F83-8955-960E57BCDB76.MP4",
+            "poster": "https://images.buffer.com/thumbnail/y0EHUT0tHfzGotoiS0ZrRxMozPjlsSLz9SKgnFMftgQ?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2FD3CE813D-A89F-4F83-8955-960E57BCDB76.MP4"
+          }
+        },
+        {
+          "title": "How to make money with one skill. \ud83d\udcb0\u2026",
+          "platform": "facebook",
+          "reach": 0,
+          "engagement": 0,
+          "externalLink": "https://www.facebook.com/reel/1016764777511021/",
+          "asset_type": "Video",
+          "date": "2026-06-24",
+          "m": {
+            "views": 245,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "watch_min": 0.0
+          },
+          "media": {
+            "type": "video",
+            "src": "https://buffer-media-uploads.s3.amazonaws.com/67e362b27bd165d61f0cf784/6a38262648cf24cb7e0f8211/2714214a971af3c92007d44ea0e60d50.original_transcoded.mp4",
+            "poster": "https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1782064622986/8c320970-99ff-4e8e-acc1-22c511ac412d.jpeg"
+          }
+        },
+        {
+          "title": "Instructor Shanon Allen had the whole room nodding\u2026",
+          "platform": "facebook",
+          "reach": 0,
+          "engagement": 0,
+          "externalLink": "https://www.facebook.com/reel/2491331791292393/",
+          "asset_type": "Video",
+          "date": "2026-07-06",
+          "m": {
+            "views": 233,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "watch_min": 0.0
+          },
+          "media": {
+            "type": "video",
+            "src": "https://debadouglas.s3.us-east-2.amazonaws.com/media/43D933C3-9003-4467-B804-D7BA85465332.mp4",
+            "poster": "https://images.buffer.com/thumbnail/CYEFslkCDSeEwEzfWlQdHjNwS9gPUoOCyEueg9m__zo?url=https%3A%2F%2Fdebadouglas.s3.us-east-2.amazonaws.com%2Fmedia%2F43D933C3-9003-4467-B804-D7BA85465332.mp4"
+          }
+        }
       ]
     },
-    "followers": 14707,
+    "followers": 14733,
     "facebook_personal_detail": {
       "window": "Apr 30, 2026 \u2013 Jun 29, 2026",
       "reach": 184783,
@@ -5280,50 +6058,50 @@
     },
     "followers_by_platform": {
       "facebook": 7112,
-      "instagram": 5464,
+      "instagram": 5484,
       "tiktok": 736,
       "linkedin": 1116,
-      "youtube": 279
+      "youtube": 285
     },
-    "followers_as_of": "2026-06-29",
+    "followers_as_of": "2026-07-09",
     "by_platform_detail": {
       "instagram": {
-        "reach": 35776,
-        "engagement": 2543,
-        "posts": 115,
-        "views": 57361,
-        "saves": 67,
-        "follows": 8
+        "reach": 35519,
+        "engagement": 2436,
+        "posts": 119,
+        "views": 56834,
+        "saves": 64,
+        "follows": 7
       },
-      "tiktok": {
-        "reach": 14919,
-        "engagement": 447,
-        "posts": 52,
-        "views": 17345,
+      "youtube": {
+        "reach": 0,
+        "engagement": 121,
+        "posts": 28,
+        "views": 11127,
         "saves": 0,
         "follows": 0
       },
       "linkedin": {
-        "reach": 1452,
-        "engagement": 90,
-        "posts": 146,
-        "views": 2351,
+        "reach": 1648,
+        "engagement": 96,
+        "posts": 158,
+        "views": 2617,
         "saves": 0,
         "follows": 0
       },
-      "youtube": {
-        "reach": 0,
-        "engagement": 92,
-        "posts": 23,
-        "views": 8475,
+      "tiktok": {
+        "reach": 14959,
+        "engagement": 470,
+        "posts": 56,
+        "views": 17114,
         "saves": 0,
         "follows": 0
       },
       "facebook_page": {
         "reach": 0,
-        "engagement": 16,
-        "posts": 16,
-        "views": 2511,
+        "engagement": 17,
+        "posts": 20,
+        "views": 3477,
         "saves": 0,
         "follows": 0
       },
@@ -5342,7 +6120,7 @@
         "window": "Apr 30, 2026 \u2013 Jun 29, 2026"
       },
       "instagram": {
-        "total": 5464,
+        "total": 5484,
         "gained": 5,
         "window": "30d"
       },
@@ -5357,15 +6135,15 @@
         "window": null
       },
       "youtube": {
-        "total": 279,
+        "total": 285,
         "gained": null,
         "window": null
       }
     },
     "followers_gained_is_true_30d": false,
     "followers_gained_total": 161,
-    "bookings": 33,
+    "bookings": 34,
     "window_days": 60,
-    "updated": "Jul 5, 6:29 PM CT"
+    "updated": "Jul 11, 2:55 PM CT"
   }
 }
