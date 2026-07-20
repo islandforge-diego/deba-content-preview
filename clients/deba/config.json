@@ -7285,7 +7285,7 @@
         }
       ]
     },
-    "followers": 14736,
+    "followers": 14813,
     "facebook_personal_detail": {
       "window": "Apr 30, 2026 \u2013 Jun 29, 2026",
       "reach": 184783,
@@ -7374,12 +7374,12 @@
     },
     "followers_by_platform": {
       "facebook": 7112,
-      "instagram": 5484,
+      "instagram": 5561,
       "tiktok": 736,
       "linkedin": 1116,
       "youtube": 288
     },
-    "followers_as_of": "2026-07-09",
+    "followers_as_of": "2026-07-20",
     "by_platform_detail": {
       "instagram": {
         "reach": 36346,
@@ -7436,7 +7436,7 @@
         "window": "Apr 30, 2026 \u2013 Jun 29, 2026"
       },
       "instagram": {
-        "total": 5484,
+        "total": 5561,
         "gained": 3,
         "window": "30d"
       },
@@ -7460,7 +7460,7 @@
     "followers_gained_total": 159,
     "bookings": 31,
     "window_days": 60,
-    "updated": "Jul 20, 12:34 PM CT"
+    "updated": "Jul 20, 1:11 PM CT"
   },
-  "synced_at": "2026-07-20T17:34:41+00:00"
+  "synced_at": "2026-07-20T18:11:39+00:00"
 }
