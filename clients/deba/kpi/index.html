@@ -135,6 +135,28 @@
   letter-spacing:.04em;text-transform:uppercase}
  .back{display:inline-block;margin:0 0 14px;font-size:12.5px;font-weight:600;color:var(--brand);text-decoration:none}
  .back:hover{text-decoration:underline}
+ .tracks{display:grid;gap:12px}
+ @media (min-width:820px){.tracks{grid-template-columns:repeat(2,1fr)}}
+ .track{background:var(--panel);border:1px solid var(--line);border-radius:9px;overflow:hidden}
+ .track-head{padding:14px 16px;border-bottom:1px solid var(--line);background:var(--panel-2)}
+ .track-head h3{margin:0 0 4px;font-size:14.5px;font-weight:700}
+ .track-head p{margin:0;font-size:12px;color:var(--ink-2);line-height:1.45}
+ .track-body{padding:14px 16px}
+ .rep-count{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--ink-3);margin-bottom:10px}
+ .rep{border:1px solid var(--line);border-left:3px solid var(--line-strong);border-radius:4px 9px 9px 9px;
+  padding:10px 12px;margin-bottom:9px;background:var(--panel-2)}
+ .rep-CONFIRMED{border-left-color:var(--good)}
+ .rep-QUESTION{border-left-color:var(--bad)}
+ .rep-TOPIC{border-left-color:var(--brand)}
+ .rep-top{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-bottom:5px;font-size:13.5px}
+ .rep-ph{font-family:var(--data);font-size:11.5px;color:var(--ink-3)}
+ .rep-when{margin-left:auto;font-size:11px;color:var(--ink-3)}
+ .rep-msg{font-size:13.5px;line-height:1.5;white-space:pre-wrap}
+ .rep-act{font-size:12px;color:var(--ink-2);margin-top:6px}
+ .rep-empty{font-size:13px;color:var(--ink-3);text-align:center;padding:10px 0}
+ .said{max-width:280px;color:var(--ink-2)}
+ .sub{font-family:var(--data);font-size:11.5px;color:var(--ink-3);margin-top:2px}
  footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);font-size:11.5px;
   color:var(--ink-3);line-height:1.6}
  footer b{color:var(--ink-2);font-weight:600}
@@ -146,16 +168,16 @@
 <p class="lede">Last week, measured against the week before it.</p>
 <div class="goalcard">
  <div class="gc-top"><span class="gc-k">Followers</span>
-  <span class="gc-v">5,564</span>
+  <span class="gc-v">5,566</span>
   <span class="chip up">▲ +63</span>
   <span class="gc-goal">Goal 10,000</span></div>
- <div class="gtrack"><div class="gprev" style="width:55.01%"></div>
-  <div class="gfill" style="left:55.01%;width:0.63%"></div>
-  <div class="gnotch" style="left:55.01%"></div></div>
+ <div class="gtrack"><div class="gprev" style="width:55.03%"></div>
+  <div class="gfill" style="left:55.03%;width:0.63%"></div>
+  <div class="gnotch" style="left:55.03%"></div></div>
  <div class="gaxis"><span class="l">0</span>
-  <span class="gmark" style="left:55.01%"><b>5,501</b>the week before</span>
+  <span class="gmark" style="left:55.03%"><b>5,503</b>the week before</span>
   <span class="r">10,000</span></div>
- <div class="gc-foot"><div class="gf"><div class="gf-v">63</div><div class="gf-k">New follows</div></div><div class="gf"><div class="gf-v">55.6%</div><div class="gf-k">Of goal</div></div><div class="gf"><div class="gf-v">4,436</div><div class="gf-k">Still to go</div></div></div></div>
+ <div class="gc-foot"><div class="gf"><div class="gf-v">63</div><div class="gf-k">New follows</div></div><div class="gf"><div class="gf-v">55.7%</div><div class="gf-k">Of goal</div></div><div class="gf"><div class="gf-v">4,434</div><div class="gf-k">Still to go</div></div></div></div>
 <div class="subhead">Key performance indicators</div>
 <div class="grid"><div class="m"><div class="m-k">Reach</div><div class="m-v">5,552</div><span class="chip up">▲ 133.9%</span><div class="m-d">Separate people who saw a post. Seeing five posts still counts once.</div><div class="m-n">Week before: 2,374<br>81% from people not following you</div></div><div class="m"><div class="m-k">Shares</div><div class="m-v">23</div><span class="chip down">▼ 8%</span><div class="m-d">Times a post was sent to someone else.</div><div class="m-n">Week before: 25</div></div><div class="m"><div class="m-k">Saves</div><div class="m-v">11</div><span class="chip up">▲ 10%</span><div class="m-d">Times a post was bookmarked.</div><div class="m-n">Week before: 10</div></div><div class="m"><div class="m-k">Comments</div><div class="m-v">40</div><span class="chip up">▲ 37.9%</span><div class="m-d">Comments left on posts.</div><div class="m-n">Week before: 29</div></div></div>
 <div class="subhead">What people did next</div>
@@ -165,22 +187,22 @@
 <div class="grid"><div class="m"><div class="m-k">Replies</div><div class="m-v">4</div><div class="m-d">Replies to a story. These arrive as direct messages.</div></div><div class="m"><div class="m-k">Interactions</div><div class="m-v">15</div><div class="m-d">Any tap, like or reply on a story.</div></div><div class="m"><div class="m-k">Story reach</div><div class="m-v">192</div><div class="m-d">Separate people who saw a story.</div></div><div class="m"><div class="m-k">Story views</div><div class="m-v">224</div><div class="m-d">Total story views, including repeats.</div></div></div>
 <div class="subhead">Each channel</div><p class="subnote">Tap a channel to see its numbers.</p>
 <div class="picker" role="tablist" aria-label="Select channel">
-<button class="pcard" role="tab" id="tab-fa" aria-controls="panel" aria-selected="true" data-k="fa" style="--pc:#8b7c84"><div class="pcard-n"><span class="dot"></span>Facebook</div><div class="pcard-v">189,460</div><div class="pcard-l">Views</div></button>
-<button class="pcard" role="tab" id="tab-in" aria-controls="panel" aria-selected="false" data-k="in" style="--pc:#d6336c"><div class="pcard-n"><span class="dot"></span>Instagram</div><div class="pcard-v">58,278</div><div class="pcard-l">Views</div></button>
+<button class="pcard" role="tab" id="tab-fa" aria-controls="panel" aria-selected="true" data-k="fa" style="--pc:#8b7c84"><div class="pcard-n"><span class="dot"></span>Facebook</div><div class="pcard-v">189,855</div><div class="pcard-l">Views</div></button>
+<button class="pcard" role="tab" id="tab-in" aria-controls="panel" aria-selected="false" data-k="in" style="--pc:#d6336c"><div class="pcard-n"><span class="dot"></span>Instagram</div><div class="pcard-v">57,977</div><div class="pcard-l">Views</div></button>
+<button class="pcard" role="tab" id="tab-yo" aria-controls="panel" aria-selected="false" data-k="yo" style="--pc:#e8590c"><div class="pcard-n"><span class="dot"></span>Youtube</div><div class="pcard-v">16,750</div><div class="pcard-l">Views</div></button>
 <button class="pcard" role="tab" id="tab-ti" aria-controls="panel" aria-selected="false" data-k="ti" style="--pc:#08a0bd"><div class="pcard-n"><span class="dot"></span>Tiktok</div><div class="pcard-v">15,887</div><div class="pcard-l">Views</div></button>
-<button class="pcard" role="tab" id="tab-yo" aria-controls="panel" aria-selected="false" data-k="yo" style="--pc:#e8590c"><div class="pcard-n"><span class="dot"></span>Youtube</div><div class="pcard-v">14,529</div><div class="pcard-l">Views</div></button>
-<button class="pcard" role="tab" id="tab-li" aria-controls="panel" aria-selected="false" data-k="li" style="--pc:#1971c2"><div class="pcard-n"><span class="dot"></span>Linkedin</div><div class="pcard-v">2,535</div><div class="pcard-l">Views</div></button>
+<button class="pcard" role="tab" id="tab-li" aria-controls="panel" aria-selected="false" data-k="li" style="--pc:#1971c2"><div class="pcard-n"><span class="dot"></span>Linkedin</div><div class="pcard-v">2,630</div><div class="pcard-l">Views</div></button>
 </div><div class="panel" id="panel" role="tabpanel"></div>
 <div class="subhead">Posts Jul 13 – Jul 19, 2026</div><p class="subnote">Ordered by how many separate people saw each one.</p><div class="posts">
 <div class="post"><img class="thumb" src="https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb662c687a22dd4484705/6a218763a13169b278dfd3ea_thumbnail.jpg" alt=""><div class="p-body"><div class="p-title">“I lost a big chunk of money right…</div><div class="p-meta">2026-06-04</div></div><div class="p-right"><div class="p-reach">2,612</div><div class="p-label">people reached</div></div></div>
 <div class="post"><img class="thumb" src="https://buffer-media-uploads.s3.amazonaws.com/67e362b288f79c93410af3f9/uploads/1780318132115/3fa10ea8-c79c-49e3-a345-a17531fe2604.png" alt=""><div class="p-body"><div class="p-title">My student just netted $28K on his flip.…</div><div class="p-meta">2026-06-01</div></div><div class="p-right"><div class="p-reach">1,657</div><div class="p-label">people reached</div></div></div>
-<div class="post"><img class="thumb" src="https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb662c687a22dd4484705/6a5798c409dabc3da8d0c7ed_thumbnail.jpg" alt=""><div class="p-body"><div class="p-title">The driveway lies. The neighbor drives a Mercedes.…</div><div class="p-meta">2026-07-15</div></div><div class="p-right"><div class="p-reach">1,684</div><div class="p-label">people reached</div></div></div>
+<div class="post"><img class="thumb" src="https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb662c687a22dd4484705/6a5798c409dabc3da8d0c7ed_thumbnail.jpg" alt=""><div class="p-body"><div class="p-title">The driveway lies. The neighbor drives a Mercedes.…</div><div class="p-meta">2026-07-15</div></div><div class="p-right"><div class="p-reach">1,688</div><div class="p-label">people reached</div></div></div>
 <div class="post"><img class="thumb" src="https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb662c687a22dd4484705/6a2cc6bdf3a0a758abe0021f_thumbnail.jpg" alt=""><div class="p-body"><div class="p-title">I said I was gonna be mad. I…</div><div class="p-meta">2026-06-12</div></div><div class="p-right"><div class="p-reach">1,664</div><div class="p-label">people reached</div></div></div>
 <div class="post"><img class="thumb" src="https://buffer-updates-media-backfill-bucket.s3.amazonaws.com/67e362b288f79c93410af3fb/6a1cb662c687a22dd4484705/6a2845bdabca0868ad8a94ab_thumbnail.jpg" alt=""><div class="p-body"><div class="p-title">“I’m trying to contain myself.” 😄 Meet @internationalphife,…</div><div class="p-meta">2026-06-09</div></div><div class="p-right"><div class="p-reach">1,531</div><div class="p-label">people reached</div></div></div>
 </div>
-<footer><b>Where these numbers come from.</b> Instagram account insights via the Meta API for Jul 13–Jul 19 against the prior week · story insights captured while each story was live · per-channel figures from Buffer.<br>Generated Jul 21, 2026.</footer><script>
+<footer><b>Where these numbers come from.</b> Instagram account insights via the Meta API for Jul 13–Jul 19 against the prior week · story insights captured while each story was live · per-channel figures from Buffer.<br>Generated Jul 22, 2026.</footer><script>
 (function(){
- var C={"fa": {"key": "fa", "name": "Facebook", "handle": "facebook", "followers": "7,112", "fresh": false, "hero": "189,460", "hero_label": "Views", "color": "#8b7c84", "rows": [{"k": "Views", "n": 189460, "p": 0}, {"k": "Interactions", "n": 5610, "p": 0}, {"k": "Posts published", "n": 32, "p": 0}], "note": ""}, "in": {"key": "in", "name": "Instagram", "handle": "instagram", "followers": "5,563", "fresh": true, "hero": "58,278", "hero_label": "Views", "color": "#d6336c", "rows": [{"k": "Views", "n": 58278, "p": 0}, {"k": "Interactions", "n": 2343, "p": 0}, {"k": "Posts published", "n": 133, "p": 0}], "note": ""}, "ti": {"key": "ti", "name": "Tiktok", "handle": "tiktok", "followers": "736", "fresh": false, "hero": "15,887", "hero_label": "Views", "color": "#08a0bd", "rows": [{"k": "Views", "n": 15887, "p": 0}, {"k": "Interactions", "n": 465, "p": 0}, {"k": "Posts published", "n": 63, "p": 0}], "note": ""}, "yo": {"key": "yo", "name": "Youtube", "handle": "youtube", "followers": "288", "fresh": false, "hero": "14,529", "hero_label": "Views", "color": "#e8590c", "rows": [{"k": "Views", "n": 14529, "p": 0}, {"k": "Interactions", "n": 146, "p": 0}, {"k": "Posts published", "n": 36, "p": 0}], "note": ""}, "li": {"key": "li", "name": "Linkedin", "handle": "linkedin", "followers": "1,116", "fresh": false, "hero": "2,535", "hero_label": "Views", "color": "#1971c2", "rows": [{"k": "Views", "n": 2535, "p": 0}, {"k": "Interactions", "n": 85, "p": 0}, {"k": "Posts published", "n": 152, "p": 0}], "note": ""}};
+ var C={"fa": {"key": "fa", "name": "Facebook", "handle": "facebook", "followers": "7,112", "fresh": false, "hero": "189,855", "hero_label": "Views", "color": "#8b7c84", "rows": [{"k": "Views", "n": 189855, "p": 0}, {"k": "Interactions", "n": 5611, "p": 0}, {"k": "Posts published", "n": 33, "p": 0}], "note": ""}, "in": {"key": "in", "name": "Instagram", "handle": "instagram", "followers": "5,565", "fresh": true, "hero": "57,977", "hero_label": "Views", "color": "#d6336c", "rows": [{"k": "Views", "n": 57977, "p": 0}, {"k": "Interactions", "n": 2374, "p": 0}, {"k": "Posts published", "n": 134, "p": 0}], "note": ""}, "yo": {"key": "yo", "name": "Youtube", "handle": "youtube", "followers": "290", "fresh": false, "hero": "16,750", "hero_label": "Views", "color": "#e8590c", "rows": [{"k": "Views", "n": 16750, "p": 0}, {"k": "Interactions", "n": 175, "p": 0}, {"k": "Posts published", "n": 37, "p": 0}], "note": ""}, "ti": {"key": "ti", "name": "Tiktok", "handle": "tiktok", "followers": "736", "fresh": false, "hero": "15,887", "hero_label": "Views", "color": "#08a0bd", "rows": [{"k": "Views", "n": 15887, "p": 0}, {"k": "Interactions", "n": 465, "p": 0}, {"k": "Posts published", "n": 64, "p": 0}], "note": ""}, "li": {"key": "li", "name": "Linkedin", "handle": "linkedin", "followers": "1,116", "fresh": false, "hero": "2,630", "hero_label": "Views", "color": "#1971c2", "rows": [{"k": "Views", "n": 2630, "p": 0}, {"k": "Interactions", "n": 89, "p": 0}, {"k": "Posts published", "n": 160, "p": 0}], "note": ""}};
  function n(x){return x.toLocaleString("en-US");}
  function chip(d){var cls=d>0.05?"up":(d<-0.05?"down":"flat"),a=d>0.05?"\u25b2":(d<-0.05?"\u25bc":"\u25ac");
   return '<span class="chip '+cls+'">'+a+" "+Math.abs(d).toFixed(0)+"%</span>";}
